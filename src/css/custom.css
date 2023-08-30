@@ -1,24 +1,16 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
 
-/* You can override the default Infima variables here. */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
 
 @font-face {
-  font-family: 'Atyp'; /* You can name it anything */
+  font-family: 'Atyp';
   src: url('/fonts/AtypDisplay-Bold.woff2') format('woff2'),
        url('/fonts/AtypDisplay-Medium.woff2') format('woff2'),
        url('/fonts/AtypDisplay-Regular.woff2') format('woff2'),
        url('/fonts/AtypDisplay-Semibold.woff2') format('woff2');
-  /* font-weight: normal;
-  font-style: normal; */
 }
 
 :root {
-  --ifm-font-family-base: 'IBM Plex Sans', sans-serif;  /* Set the default font to IBM Plex Sans */
+  --ifm-font-family-base: 'IBM Plex Sans', sans-serif;
   --ifm-color-primary: #000;
   --ifm-color-primary-dark: #000033;
   --ifm-color-primary-darker: #001ac9;
@@ -45,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   --ifm-color-primary-lightest: #000;
   --ifm-menu-color-background-active: rgba(255, 255, 255, 0.1);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-navbar-background-color: #000;
+  --ifm-navbar-background-color: #151718;
   --ifm-menu-color: #888;
 }
 
@@ -75,7 +67,7 @@ html[data-theme='dark'] {
 }
 
 [data-theme='dark'] .footer {
-  background: transparent;
+  background: #151718;
   border-top: 1px solid #313538;
 }
 
@@ -110,6 +102,7 @@ html[data-theme='dark'] {
   border-radius: 6px;
   border: 1px solid #313538;
   background: var(--docsearch-searchbox-focus-background);
+  color: #888;
 }
 .navbar__items .DocSearch-Button:hover {
   box-shadow: var(--ifm-toc-border-color);
@@ -277,6 +270,7 @@ article h1,
 }
 
 .pagination-nav__link {
+  background-color: #151718;
   border-radius: 6px;
 }
 

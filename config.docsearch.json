@@ -1,11 +1,11 @@
 {
-  "index_name": "fleekNetworkDocs",
+  "index_name": "fleekDocs",
   "start_urls": [
-    "https://docs.fleek.network/blog",
-    "https://docs.fleek.network/docs"
+    "https://docs.fleek.xyz/blog",
+    "https://docs.fleek.xyz/docs"
   ],
   "sitemap_urls": [
-    "https://docs.fleek.network/sitemap.xml"
+    "https://docs.fleek.xyz/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [

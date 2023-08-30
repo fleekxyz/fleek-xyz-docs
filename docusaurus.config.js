@@ -30,16 +30,17 @@ const commonNavbarItems = [{
   activeBasePath: 'templates',
 },
 {
-  href: 'https://github.com/fleek-network/',
+  href: 'https://github.com/fleekxyz',
   label: 'Github',
   position: 'left',
   target: '_blank',
 }];
 
 const commonDiscord = 'https://discord.gg/fleekxyz';
-const commonTwitter = 'https://twitter.com/fleek_net';
-const commonHome = 'https://fleek.network';
-const commonCompanyUrl = 'https://fleek.network/';
+const commonTwitter = 'https://twitter.com/fleekxyz';
+const commonHome = 'https://fleek.xyz';
+const commonCompanyUrl = 'https://fleek.xyz';
+const commonSupport = 'https://support.fleek.xyz';
 
 const copyright = `Copyright © ${new Date().getFullYear()} Fleek`;
 
@@ -47,7 +48,7 @@ const copyright = `Copyright © ${new Date().getFullYear()} Fleek`;
 const config = {
   title: 'Fleek Network Docs | Decentralized Edge Platform',
   tagline: 'Welcome to the docs of Fleek Network, a decentralized edge platform for building web3 edge services.',
-  url: 'https://docs.fleek.network',
+  url: 'https://docs.fleek.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,8 +56,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fleek-network', // Usually your GitHub org/user name.
-  projectName: 'fleek-network-docs', // Usually your repo name.
+  organizationName: 'fleekxyz', // Usually your GitHub org/user name.
+  projectName: 'fleek-xyz-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -143,16 +144,16 @@ const config = {
               },
               {
                 label: 'Contact us',
-                href: commonDiscord,
+                href: commonSupport,
               },
             ],
           },
         ],
         // copyright: `Copyright © ${new Date().getFullYear()} Fleek. All rights reserved.`,
         logo: {
-          alt: 'Fleek Network',
+          alt: 'Fleek',
           src: 'img/logo+named.svg?202301101154',
-          href: 'https://fleek.network',
+          href: 'https://fleek.xyz',
           width: 100
         },
       },
