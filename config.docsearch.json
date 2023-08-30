@@ -2,9 +2,7 @@
   "index_name": "fleekNetworkDocs",
   "start_urls": [
     "https://docs.fleek.network/blog",
-    "https://docs.fleek.network/docs",
-    "https://docs.fleek.network/guides",
-    "https://docs.fleek.network/reference"
+    "https://docs.fleek.network/docs"
   ],
   "sitemap_urls": [
     "https://docs.fleek.network/sitemap.xml"

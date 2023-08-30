@@ -5,7 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
 
 @font-face {
   font-family: 'Atyp'; /* You can name it anything */
@@ -18,7 +18,7 @@
 }
 
 :root {
-  --ifm-font-family-base: 'IBM Plex Mono', sans-serif;  /* Set the default font to IBM Plex Sans */
+  --ifm-font-family-base: 'IBM Plex Sans', sans-serif;  /* Set the default font to IBM Plex Sans */
   --ifm-color-primary: #000;
   --ifm-color-primary-dark: #000033;
   --ifm-color-primary-darker: #001ac9;
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 [data-theme='dark'] {
   --ifm-color-primary: #fff;
   --ifm-color-primary-dark: #98beff;
-  --ifm-color-primary-darker: #C9FF57;
+  --ifm-color-primary-darker: #52A9FF;
   --ifm-color-primary-darkest: #0048f8;
   --ifm-color-primary-light: #001ac9;
   --ifm-color-primary-lighter: #000033;
@@ -76,18 +76,18 @@ html[data-theme='dark'] {
 
 [data-theme='dark'] .footer {
   background: transparent;
-  border-top: 1px solid var(--ifm-toc-border-color);
+  border-top: 1px solid #313538;
 }
 
 .navbar {
-  border-bottom: 1px solid var(--ifm-toc-border-color);
+  border-bottom: 1px solid #313538;
   box-shadow: none;
 }
 
 .alert {
   background: #1C1C1C;
-  border-left: 4px solid #C9FF57;
-  border-radius: 0px;
+  border-left: 4px solid #fff;
+  border-radius: 6px;
 }
 
 .alert a {
@@ -107,14 +107,14 @@ html[data-theme='dark'] {
 }
 .navbar__items .DocSearch-Button {
   width: 250px;
-  border-radius: 0px;
-  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 6px;
+  border: 1px solid #313538;
   background: var(--docsearch-searchbox-focus-background);
 }
 .navbar__items .DocSearch-Button:hover {
   box-shadow: var(--ifm-toc-border-color);
   background: var(--docsearch-searchbox-focus-background);
-  border: 1px solid var(--ifm-color-primary);
+  border: 1px solid #697177;
 }
 
 .footer__bottom {
@@ -238,7 +238,7 @@ nav > .menu__list {
 .DocSearch-Container > .DocSearch-Modal,
 .DocSearch-Modal .DocSearch-Form {
   box-shadow: none;
-  border: 1px solid var(--ifm-toc-border-color);
+  border: 1px solid #313538;
 }
 
 .DocSearch-Modal .DocSearch-Input {
@@ -246,7 +246,7 @@ nav > .menu__list {
 }
 
 input[class^="searchQueryInput_"] {
-  border: 1px solid var(--ifm-toc-border-color);
+  border: 1px solid #313538;
   max-width: 480px;
   width: 100%;
 }
@@ -277,7 +277,7 @@ article h1,
 }
 
 .pagination-nav__link {
-  border-radius: 0px;
+  border-radius: 6px;
 }
 
 .main-wrapper .container {

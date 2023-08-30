@@ -18,21 +18,16 @@ const commonNavbarItems = [{
   position: 'left',
 },
 {
-  to: 'blog',
-  label: 'Engineering',
-  position: 'left',
-},
-{
   to: 'guides',
   label: 'Guides',
   position: 'left',
   activeBasePath: 'guides',
 },
 {
-  to: 'reference',
-  label: 'Reference',
+  to: 'templates',
+  label: 'Templates',
   position: 'left',
-  activeBasePath: 'reference',
+  activeBasePath: 'templates',
 },
 {
   href: 'https://github.com/fleek-network/',
@@ -84,15 +79,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           sidebarCollapsed: false,
           sidebarCollapsible: false,
-        },
-        blog: {
-          path: 'blog',
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: 'All Blog Posts',
-          feedOptions: {
-            type: 'all',
-            copyright,
-          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -167,7 +153,7 @@ const config = {
           alt: 'Fleek Network',
           src: 'img/logo+named.svg?202301101154',
           href: 'https://fleek.network',
-          width: 160
+          width: 100
         },
       },
       prism: {
@@ -199,18 +185,6 @@ const config = {
           sidebarPath: undefined,
           sidebarCollapsed: false,
           sidebarCollapsible: false,
-          ...commonDocsOptions,
-        }),
-      ],
-      [
-        'content-docs',
-        /** @type {import('@docusaurus/plugin-content-docs').Options} */
-        ({
-          id: 'reference',
-          path: 'reference',
-          routeBasePath: '/reference',
-          // `undefined` to auto-generate
-          sidebarPath: undefined,
           ...commonDocsOptions,
         }),
       ],

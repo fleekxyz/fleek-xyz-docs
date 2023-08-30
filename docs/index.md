@@ -8,17 +8,13 @@ description: Welcome to the documentation site for Fleek Network, the decentrali
 category: Documentation
 keywords: [introduction, documentation, getting started]
 tags:
-- Edge Platform
-- Guide
-- Learn
-- Fleek Network
+  - Edge Platform
+  - Guide
+  - Learn
+  - Fleek Network
 ---
 
-![](./images/banner-pic.png)
-
-:::info
-This documentation is currently placeholder as the team prepares for an initial testnet release around the end of August. Current open source code is highly experimental and may be subject to change.
-:::
+![](./images/docs-home.png)
 
 Welcome to the **documentation for Fleek Network**, a decentralized edge platform optimized to facilitate the deployment and running of performant web services.
 
