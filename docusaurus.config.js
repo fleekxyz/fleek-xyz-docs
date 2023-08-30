@@ -188,6 +188,20 @@ const config = {
           ...commonDocsOptions,
         }),
       ],
+      [
+        'content-docs',
+        /** @type {import('@docusaurus/plugin-content-docs').Options} */
+        ({
+          id: 'templates',
+          path: 'templates',
+          routeBasePath: '/templates',
+          // `undefined` to auto-generate
+          sidebarPath: undefined,
+          sidebarCollapsed: false,
+          sidebarCollapsible: false,
+          ...commonDocsOptions,
+        }),
+      ],
     ],    
 };
 
