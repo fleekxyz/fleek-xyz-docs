@@ -9,7 +9,7 @@ const commonDocsOptions = {
   showLastUpdateAuthor: false,
   showLastUpdateTime: true,
   editUrl:
-    'https://github.com/fleek-network/fleek-network-docs/edit/main/',
+    'https://github.com/fleek-xyz/',
 };
 
 const commonNavbarItems = [{
@@ -46,8 +46,8 @@ const copyright = `Copyright © ${new Date().getFullYear()} Fleek`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Fleek Network Docs | Decentralized Edge Platform',
-  tagline: 'Welcome to the docs of Fleek Network, a decentralized edge platform for building web3 edge services.',
+  title: 'Fleek Docs | Build Lightning Fast Web3 Apps',
+  tagline: 'Welcome to the docs of Fleek. Seamlessly build Web3 apps and services that are edge-optimized for performance.',
   url: 'https://docs.fleek.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -97,7 +97,7 @@ const config = {
     ({
       image: 'img/documentation.png',
       metadata:[{
-        description: 'Welcome to the docs of Fleek Network, a decentralized edge platform for building edge services.'}],      
+        description: 'Welcome to the docs of Fleek. Seamlessly build Web3 apps and services that are edge-optimized for performance.'}],      
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true,

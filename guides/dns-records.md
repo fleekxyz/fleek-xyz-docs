@@ -4,7 +4,7 @@ sidebar_position: 2
 tags:
 - Guides
 - Help
-- Fleek Network
+- Fleek
 ---
 
 ### Introduction

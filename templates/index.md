@@ -4,7 +4,7 @@ sidebar_position: 1
 tags:
 - Templates
 - Help
-- Fleek Network
+- Fleek
 ---
 Welcome to the documentation for the beta of [Fleek Templates](https://github.com/fleekxyz/templates). Wether you're building a static website or a smart-contract powered application, you'll find a wide variety of tempaltes to jump-start your project.
 

@@ -2,10 +2,10 @@
   <img src="./static/img/logo+named.svg?202301091309" width="360px" height="auto"/>
 </div>
 
-# Fleek Network docs
+# Fleek XYZ docs
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-blue.svg)](https://conventionalcommits.org)
 
-The Fleek Network documentation and guides source.
+The Fleek XYZ documentation and guides source.
 
 ### 🤖 Installation
 
@@ -83,9 +83,9 @@ yarn crawl:docker
 
 ### 👩‍🎨 Custom domain
 
-A custom domain (cloudflare) is setup to point to github pages as `docs.fleek.network`.
+A custom domain (cloudflare) is setup to point to github pages as `docs.fleek.xyz`.
 
-The `docusaurus.config.js` and `config.docsearch.json` are set to use the custom domain. There's another file to persist the custom name for github pages, the `static.CNAME` that should contain the `docs.fleek.network` custom domain.
+The `docusaurus.config.js` and `config.docsearch.json` are set to use the custom domain. There's another file to persist the custom name for github pages, the `static.CNAME` that should contain the `docs.fleek.xyz` custom domain.
 
 This is important as otherwise, the DNS checkup would fail!
 

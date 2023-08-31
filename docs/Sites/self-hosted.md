@@ -4,7 +4,7 @@ title: Self Managed Deployments
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation site for Fleek Network, the decentralized content and application layer built on established decentralized storage protocols combined with high-speed caching and an effective delivery layer.
+description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -12,7 +12,7 @@ tags:
 - CDN
 - Guide
 - Learn
-- Fleek Network
+- Fleek
 ---
 
 In self-custodial deployments, you can configure your site with your code repository. This allows you to trigger a deploy manually or connect it to your CI pipeline.
