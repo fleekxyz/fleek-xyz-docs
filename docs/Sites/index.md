@@ -28,3 +28,6 @@ In managed deployments you will be able to connect your code repository to Fleek
 #### Self Managed deployments
 
 In self-custodial deployments, you can configure your site with your code repository. This allows you to trigger a deploy manually or connect it to your CI pipeline.
+
+#### CDN
+All sites hosted and deployed on Fleek are accelerated and optimized by the Fleek Edge - the infrastructure backbone of Fleek. Geo-aware, intelligent, performant, and decentralized. Soon to be powered by Fleek Network. It provides high-availability caching, with automatic-cache refreshes on-deploy.

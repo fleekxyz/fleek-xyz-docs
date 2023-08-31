@@ -44,3 +44,12 @@ To do this you can follow the steps in the [Gateways](/docs/gateways) section.
 ### Deleting a file or directory
 
 To delete a file or directory you can click on the three dots icon in the file or directory row and select the `Delete` option. This will remove the file or directory from your storage. This action is irreversible.
+
+
+### Content Addressing
+
+In Fleek, all files in storage are made content-addressable by using IPFS as the addressability layer, which means all files stored on Fleek are stored on IPFS by default aside from the decentralized-storage layer of choice (Filecoin/Arweave). Each file will receive its unique immutable IPFS content hash to make it addressable under a common denominator/format that is standard in web3.
+
+- IPFS hashes look like: `QmX4XRaPP6jBSDiYr3tK7fEBWSA5QURS8WZ87ZvPRJgAqK`
+
+And they can be accessed via either Fleek's gateways, or a public gateways such as `ipfs.io/ipfs/<yourhash>`. While immutable, you can use IPNS to map dynamically changing IPFS hashes to a static hash/record (IPNS). See our CLI/SDK section for instructions on how to manage IPNS records.
