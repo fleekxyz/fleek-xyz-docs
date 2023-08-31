@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Developers
+title: Storage
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
@@ -15,20 +15,32 @@ tags:
 - Fleek Network
 ---
 
-:::info
-This documentation is currently placeholder as the team prepares for an early testnet release around the month of August, where full documentation for node runners and services will release.
-:::
+### Introduction
 
-## Developer in Fleek Network - Current State
+In Fleek we offer a storage service that you can use to store your files in a decentralized way. We support the following protocols:
 
-As a developer, you will be able to build or use services running on Fleek Network's decentralized edge infrastructure.
+- IPFS
+- Arweave
+- Filecoin
 
-This will be possible **after our initial Testnet rollouts in August, and after we publish our Service Development Kit (SDK) for service development**. Currently we are finalizing the core developments of the protocol and setting the foundations for the testnet release.
+To guarantee the best performance and availability we use a combination of these protocols. We use IPFS as the main storage protocol and we use Arweave and Filecoin as a backup layer. This allows us to provide a high availability and performance service. By default we are using Filecoin as the backup layer but all the configuration can be changed in the storage settings.
 
-## How can you Start Getting Involved Today?
+Storage is a service unique for every project. This means that you can have different storage configurations for each project you have in Fleek.
 
-1. Get familiar with the project [with our Whitepaper](https://whitepaper.fleek.network).
-2. Review our open-source [codebase on Github](https://github.com/fleek-network/lightning/).
-3. Learn about [services in Fleek Network.](./services.md)
-3. Want to run a node? Join our community [in Discord to get updates when possible](https://discord.gg/fleekxyz).
-4. Or sign up to the newsletter on [our website](https://fleek.network/) for updates.
+### Add a File or Directory
+
+To add a file to your storage you first need to navigate to the `Files` section in your project dashboard and click on the `Upload File` button. This will open a modal where you can select one or multiple files to upload.
+
+This will be uploaded to IPFS and in the background it will be uploading to Filecoin and/or Arweave depending on your configuration.
+
+To add a directory simply select  the `Upload Directory` button and select the directory you want to upload.
+
+### Accessing a file or directory
+
+To access a file or directory you can click on the three dots icon in the file or directory row and select the `Copy URL` option. This will copy the URL to your clipboard and you can use it to access the file or directory. By default Fleek will be using Public gateways to surface the content. If you want you can set up a custom domain to access the content that will allow you to have a more performant a branded experience.
+
+To do this you can follow the steps in the [Gateways](/docs/gateways) section.
+
+### Deleting a file or directory
+
+To delete a file or directory you can click on the three dots icon in the file or directory row and select the `Delete` option. This will remove the file or directory from your storage. This action is irreversible.

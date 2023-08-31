@@ -24,7 +24,7 @@ In this section we will dive deeper into the IPFS private gateways services and 
 
 ### What is a private gateway?
 
-A private gateway is a service that allows you to serve your content to your users through a custom domain. This means that you can serve your content through a domain like https://mydomain.com instead of https://ipfs.io/ipfs/<hash>.
+A private gateway is a service that allows you to serve your content to your users through a custom domain. This means that you can serve your content through a domain like `https://mydomain.com` instead of `https://ipfs.io/ipfs/<hash>`.
 
 They are private because this gateway only allow the files pinned in you account to be served. By allowing you to set up a custom domain it gives you an extra branding layer to your content.
 
