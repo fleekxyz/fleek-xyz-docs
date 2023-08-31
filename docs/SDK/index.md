@@ -62,9 +62,8 @@ const fleekSdk = new FleekSdk({ accessTokenService: newAccessTokenService });
 ```
 
 #### Personal Access Token Service
-  <Callout type="warning" emoji="⚠️">
-  The personal access token (PAT) is ment to be used in Backend Node.js environment and should be kept private, you should use an environment variable to store it.
-  </Callout>
+
+The personal access token (PAT) is ment to be used in Backend Node.js environment and should be kept private, you should use an environment variable to store it.
 
 ##### *Parameters*
   |*parameters*|*description*|
