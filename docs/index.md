@@ -4,23 +4,24 @@ title: Home
 sidebarCollapsible: false
 sidebar_position: 1
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation site for Fleek Network, the decentralized content and application layer built on established decentralized storage protocols combined with high-speed caching and an effective delivery layer.
+description: Welcome to the documentation for the beta of Fleek.xyz(opens in a new tab). Whether you are an expert or an absolute beginner, you'll find your answers here.
 category: Documentation
 keywords: [introduction, documentation, getting started]
 tags:
-  - Edge Platform
+  - Storage
+  - Sites
   - Guide
   - Learn
-  - Fleek Network
+  - Fleek
 ---
 
 ![](./images/docs-home.png)
 
-Welcome to the **documentation for Fleek Network**, a decentralized edge platform optimized to facilitate the deployment and running of performant web services.
+Welcome to the documentation for the alpha of [Fleek.xyz](https://fleek.xyz). Whether you are an expert or an absolute beginner, you'll find your answers here.
 
-Fleek Network’s goal is to provide a platform based on a series of highly performant nodes that all Web3 protocols, middleware, services, and applications can benefit from, to further decentralize their stack without sacrificing cost, performance, complexity, or developer/end-user experience.
+Fleek is a Web3 infrastructure platform that surfaces protocols like Fleek Network. IPFS, Arweave, Filecoin, POKT, ENS, and more. Use them independently or combine them together to create awesome new experiences.
 
-- Our whitepaper is the most recent source of information for Fleek Network. [You can find it here.](https://whitepaper.fleek.network/)
-- Need to know more about Fleek Network? Here's [Fleek Network's website.](https://fleek.network/)
+- Need support? Visit our [Support Center and Knowledge Hub.](https://support.fleek.xyz/)
 - Feedback? Enter our [Discord channel](https://discord.gg/fleekxyz) to have a direct line with our developers.
-- Would like to find a bit more from our developers? The [engineering blog](/blog) offers a deeper look.
+- Would like to find a bit more of what we do? In our [blog](https://blog.fleek.xyz) you can find more information.
+
