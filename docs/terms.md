@@ -2,7 +2,7 @@
 draft: false
 title: Terms & Conditions
 sidebarCollapsible: false
-sidebar_position: 5
+sidebar_position: 10
 date: 2023-01-10T09:00:00.000+00:00
 description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
 category: Documentation
