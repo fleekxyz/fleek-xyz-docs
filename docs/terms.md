@@ -42,7 +42,7 @@ Except for changes by us as described here, no other amendment or modification o
 
 ### What about my privacy?
 
-Fleek takes the privacy of its users very seriously. For the current Fleek Privacy Policy, please click [here](/privacy).
+Fleek takes the privacy of its users very seriously.
 
 The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly collect or solicit personally identifiable information from children under 16; if you are a child under 16, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn we have collected personal information from a child under 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us personal information, please contact us at support@fleek.xyz.
 
@@ -87,7 +87,7 @@ The materials displayed or performed or available on or through the Services, in
 
 ### Do I have to grant any licenses to Fleek or to other users?
 
-Anything you post, upload, share, store, or otherwise provide through the Services is your “User Submission.” Some User Submissions may be viewable by other users. In order to display your User Submissions on the Services, and to allow other users to enjoy them (where applicable), you grant us certain rights in those User Submissions. Please note that all of the following licenses are subject to our [Privacy Policy](/privacy) to the extent they relate to User Submissions that are also your personally-identifiable information.
+Anything you post, upload, share, store, or otherwise provide through the Services is your “User Submission.” Some User Submissions may be viewable by other users. In order to display your User Submissions on the Services, and to allow other users to enjoy them (where applicable), you grant us certain rights in those User Submissions. Please note that all of the following licenses are subject to our Privacy Policy to the extent they relate to User Submissions that are also your personally-identifiable information.
 
 For all User Submissions, you hereby grant Fleek a license to translate, modify (for technical purposes, for example making sure your content is viewable on an iPhone as well as a computer) and reproduce and otherwise act with respect to such User Submissions, in each case to enable us to operate the Services, as described in more detail below. This is a license only – your ownership in User Submissions is not affected.
 
@@ -143,7 +143,7 @@ Free Trials and Other Promotions. Any free trial or other promotion that provide
 
 ### What if I want to stop using the Services?
 
-You’re free to do that at any time, by contacting us at support@fleek.xyz; please refer to our [Privacy Policy](/privacy), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
+You’re free to do that at any time, by contacting us at support@fleek.xyz; please refer to our Privacy Policy, as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
 
 Fleek is also free to terminate (or suspend access to) your use of the Services or your account, for any reason in our discretion, including your breach of these Terms. Fleek has the sole right to decide whether you are in violation of any of the restrictions set forth in these Terms.
 
