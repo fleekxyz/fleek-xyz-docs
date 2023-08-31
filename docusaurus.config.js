@@ -78,8 +78,8 @@ const config = {
           routeBasePath: '/docs',
           breadcrumbs: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          sidebarCollapsed: false,
-          sidebarCollapsible: false,
+          sidebarCollapsed: true,
+          sidebarCollapsible: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
