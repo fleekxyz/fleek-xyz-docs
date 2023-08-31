@@ -179,7 +179,7 @@ div[class*="docItemContainer"] {
 }
 
 .menu .menu__list {
-  padding-right: 2rem;
+  padding: 0;
 }
 
 nav > .menu__list {
