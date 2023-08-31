@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Guides
 sidebar_position: 1
 tags:
 - Guides
@@ -7,10 +7,6 @@ tags:
 - Fleek Network
 ---
 
-:::info
-This documentation is currently placeholder as the team prepares for an early testnet release around the month of August. Full documentation for node runners guides, and service development will arrive in due time, near the aforementioned testnet release. Current open source code is highly experimental and may be subject to change.
-:::
+### Introduction
 
-The guides for the [Fleek Network](https://fleek.network) to learn about the services powering the Fleek Network, and how to set up a node or customize it for your needs.
-
-A guide provides step-by-step instructions and descriptions to help you understand how and why you'd have to do or execute certain commands. It differs from our [Reference](reference), as the name implies, that is more of a breakdown of the required commands.
+In this section you will find guides to help you with the most common tasks when using Fleek. If you are looking for more in-depth information about Fleek, you can check our [Documentation](/docs/index.md).
