@@ -161,18 +161,18 @@ const config = {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'ZLPPXSKTFE',
-        // Public API key
-        apiKey: '33ed5b78ac12317e4243d3f44874cbc8',
-        indexName: 'fleek',
-        // Optional: see doc section below
-        contextualSearch: true,
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-        schedule: 'every 1 day at 6:00 pm',
-      },
+      // algolia: {
+      //   // The application ID provided by Algolia
+      //   appId: 'ZLPPXSKTFE',
+      //   // Public API key
+      //   apiKey: '33ed5b78ac12317e4243d3f44874cbc8',
+      //   indexName: 'fleek',
+      //   // Optional: see doc section below
+      //   contextualSearch: true,
+      //   // Optional: path for search page that enabled by default (`false` to disable it)
+      //   searchPagePath: 'search',
+      //   schedule: 'every 1 day at 6:00 pm',
+      // },
     }),
     plugins: [
       [
