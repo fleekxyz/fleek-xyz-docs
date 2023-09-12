@@ -30,6 +30,12 @@ const commonNavbarItems = [{
   activeBasePath: 'templates',
 },
 {
+  to: 'changelog',
+  label: 'Changelog',
+  position: 'left',
+  activeBasePath: 'changelog',
+},
+{
   href: 'https://github.com/fleekxyz',
   label: 'Github',
   position: 'left',
@@ -196,6 +202,20 @@ const config = {
           id: 'templates',
           path: 'templates',
           routeBasePath: '/templates',
+          // `undefined` to auto-generate
+          sidebarPath: undefined,
+          sidebarCollapsed: false,
+          sidebarCollapsible: false,
+          ...commonDocsOptions,
+        }),
+      ],
+      [
+        'content-docs',
+        /** @type {import('@docusaurus/plugin-content-docs').Options} */
+        ({
+          id: 'changelog',
+          path: 'changelog',
+          routeBasePath: '/changelog',
           // `undefined` to auto-generate
           sidebarPath: undefined,
           sidebarCollapsed: false,
