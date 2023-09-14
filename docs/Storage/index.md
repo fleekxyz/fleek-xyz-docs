@@ -39,7 +39,7 @@ To add a directory simply select  the `Upload Directory` button and select the d
 
 To access a file or directory you can click on the three dots icon in the file or directory row and select the `Copy URL` option. This will copy the URL to your clipboard and you can use it to access the file or directory. By default Fleek will be using Public gateways to surface the content. If you want you can set up a custom domain to access the content that will allow you to have a more performant a branded experience.
 
-To do this you can follow the steps in the [Gateways](https://docs.fleek.xyz/docs/gateways) section.
+To do this you can follow the steps in the [Gateways](https://docs.fleek.xyz/docs/Gateways) section.
 
 ### Deleting a file or directory
 
