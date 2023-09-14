@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Sites
+title: Sites | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 4
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Host and manage static sites on Fleek with self-custodial or managed deployments. Benefit from speedy performance with the Fleek Edge.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
