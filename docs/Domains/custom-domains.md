@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Custom Domains
+title: DNS | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 5
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Set up custom DNS domains on Fleek to surface your sites online. With automatic CDN, DDoS protection, and high availability..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
