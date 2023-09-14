@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Domains
+title: Domains | CLI | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Set up a custom domain for your Fleek site easily with our CLI guide. Add, verify, and manage effortlessly.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
