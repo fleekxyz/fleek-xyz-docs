@@ -1,10 +1,10 @@
 ---
 draft: false
-title: IPNS
+title: IPNS | CLI | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Learn to create, publish, and manage IPNS records on Fleek, facilitating dynamic updates to IPFS content. Master the steps with our CLI guide from authentication to resolving records.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
