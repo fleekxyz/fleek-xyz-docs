@@ -4,7 +4,7 @@ title: Managed Deployments | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Deploy a site using Fleek’s CI/CD pipeline. Connect your repository to Fleek and we will take care of the build and deploy process..
+description: Deploy a site using Fleek’s CI/CD pipeline. Connect your repository to Fleek and we will take care of the build and deploy process.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
