@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Terms & Conditions
+title: Terms & Conditions | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 10
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Overview of Fleek LLC's Terms of Use detailing the rules and regulations for accessing and using our website, products, and services.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
