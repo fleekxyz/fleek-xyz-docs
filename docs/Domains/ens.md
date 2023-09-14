@@ -1,10 +1,10 @@
 ---
 draft: false
-title: ENS
+title: ENS | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Learn to set and manage your .eth domains. Discover the convenience of .limo gateway and how to resolve seamlessly with MetaMask or public gateways..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
