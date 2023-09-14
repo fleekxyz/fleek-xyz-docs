@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Road to Sunsetting
+title: Road to Sunsetting | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 1
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Discover the phased sunsetting of Fleek.co and the launch of the new Fleek.xyz App.
 category: Documentation
 keywords: [introduction, documentation, getting started]
 tags:
