@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Home | Fleek Docs | Build Lightning Fast Web3 Apps
+title: Home | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 1
 date: 2023-01-10T09:00:00.000+00:00
