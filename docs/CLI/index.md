@@ -66,7 +66,7 @@ $ fleek logout
 
 ### Projects
 
-As explained [here](/docs/Projects/index.md), to interact with services, you need to have a project. This can be created and managed via the CLI too!
+As explained [here](/docs/Projects), to interact with services, you need to have a project. This can be created and managed via the CLI too!
 
 To create a project, you can do it like this:
 
