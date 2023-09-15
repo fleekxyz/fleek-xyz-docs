@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Domains
+title: Domains | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 5
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Set up custom DNS and ENS domains on your Fleek sites and provide both regular and decentralized access points to your projects.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:

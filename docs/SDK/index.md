@@ -1,10 +1,10 @@
 ---
 draft: false
-title: SDK
+title: SDK | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: The Fleek SDK is a set of tools that allow you to interact with Fleek’s services. It’s composed of a set of libraries that you can leverage to build your own application on top of Fleek’s services.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:

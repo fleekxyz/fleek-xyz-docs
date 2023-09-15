@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Custom Domains
+title: DNS | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 5
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Set up custom DNS domains on Fleek to surface your sites online. With automatic CDN, DDoS protection, and high availability..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -35,7 +35,7 @@ Each time you make a new deployment on your site, we will automatically update t
 
 ### Adding a custom domain
 
-To add a custom domain to your site, first you need to have a site created. If you don't have a site yet, please follow the steps in the [Sites](/docs/sites) section.
+To add a custom domain to your site, first you need to have a site created. If you don't have a site yet, please follow the steps in the [Sites](https://docs.fleek.xyz/docs/Sites) section.
 
 Once you have a site created, go to the site overview and click on the settings icon. In the settings page, click on the **Domains** tab. You will see a list of all the custom domains you have added to the site. To add a new custom domain, type it into the input available in the custom domains section and after we run some validations (mainly cehcking that the domain is valid and is not added to another site) you will be able to add it by clicking the **Add Custom Domain** button.
 

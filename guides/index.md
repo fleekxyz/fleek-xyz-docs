@@ -1,6 +1,7 @@
 ---
-title: Guides
+title: Guides | Fleek Docs
 sidebar_position: 1
+description: Find guides to help you with the most common tasks when using Fleek.
 tags:
 - Guides
 - Help

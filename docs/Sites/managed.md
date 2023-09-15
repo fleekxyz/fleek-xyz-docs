@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Managed Deployments
+title: Managed Deployments | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Deploy a site using Fleek’s CI/CD pipeline. Connect your repository to Fleek and we will take care of the build and deploy process.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -59,13 +59,13 @@ In case a deployment failes you can retry it directly from the deployments page.
 
 Once the deployment is completed you will be able to configure your custom domain. To do this, go to the settings page and click on the domains tab. In this page you will be able to add your custom domain and configure it to use your site.
 
-You can follow a guide on how to configure your custom domain [here](/docs/domains/custom-domains).
+You can follow a guide on how to configure your custom domain [here](https://docs.fleek.xyz/docs/Domains/custom-domains).
 
 #### Configure your ENS domain
 
 You can also configure your ENS domain. To do this, go to the settings page and click on the domains tab. In this page you will be able to add your ENS domain and configure it to use your site.
 
-You can follow a guide on how to configure your ENS domain [here](/docs/domains/ens).
+You can follow a guide on how to configure your ENS domain [here](https://docs.fleek.xyz/docs/Domains/ens).
 
 ### Deleting a Site
 

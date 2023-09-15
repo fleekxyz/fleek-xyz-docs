@@ -1,10 +1,10 @@
 ---
 draft: false
-title: ENS
+title: ENS | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Learn to set and manage your .eth domains. Discover the convenience of .limo gateway and how to resolve seamlessly with MetaMask or public gateways..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -29,7 +29,7 @@ Which by appending .limo at the end of your ENS simply resolves it via HTTPS.
 
 ### Adding an ENS domain
 
-To add an ENS domain to your site, first you need to have a site created. If you don't have a site yet, please follow the steps in the [Sites](/docs/sites) section.
+To add an ENS domain to your site, first you need to have a site created. If you don't have a site yet, please follow the steps in the [Sites](https://docs.fleek.xyz/docs/Sites) section.
 
 Once you have a site created, go to the site overview and click on the settings icon. In the settings page, click on the **Domains** tab. You will see a list of all the ENS you have added to the site. To add a new ENS domain, type it into the input available in the ENS domains section and after we run some validations (mainly cehcking that the domain is valid and is not added to another site) you will be able to add it by clicking the **Add ENS Domain** button.
 

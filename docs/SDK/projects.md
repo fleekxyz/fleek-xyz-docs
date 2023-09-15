@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Projects
+title: Projects | SDK | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Create, list, and retrieve project details using the SDK, ensuring seamless integration with IPFS storage & IPNS services.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:

@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Gateway
+title: Gateway | CLI | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Learn how to set up and configure a private gateway on Fleek, serving content from your storage via a custom domain.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:

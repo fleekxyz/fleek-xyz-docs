@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Gateways
+title: Gateways | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Dive into storage private gateways with Fleek. Understand their functioning, set up custom domains, and manage content delivery seamlessly..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -34,7 +34,7 @@ To create a private gateway you will need to have a Fleek project and a custom d
 
 To set up the gateway you have to go to the project settings and click on the `Gateways` tab. In this tab you will see a list of all the gateways you have created for this project. To create a new gateway you need to add a name for it and click on the `Add Gateway` button. Once the gateways is created a modal will appear to add your first custom domain on top of it. 
 
-You need to add the domain and in similar fashion to how its added to a site in [Custom domains](/docs/gateways) section you will need to configure the DNS provider to point to the gateway. Once you have configured the DNS provider you can click on the `Ok, I have added it` button and and we will run the verification to make sure its setted up correctly.
+You need to add the domain and in similar fashion to how its added to a site in [Custom domains](https://docs.fleek.xyz/docs/Domains/custom-domains) section you will need to configure the DNS provider to point to the gateway. Once you have configured the DNS provider you can click on the `Ok, I have added it` button and and we will run the verification to make sure its setted up correctly.
 
 Once the verification is completed you will see the status of the gateway change to `Active` and you will be able to use it to serve your content. You can access the content on your gateway via the domain like this `my-gateway-url/ipfs/<cid>` and `my-gateway-url/ipns/<cid>`
 

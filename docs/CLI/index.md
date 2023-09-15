@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Fleek CLI
+title: Fleek CLI | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Find all the information on how to set up and start interacting with Fleek's Command Line Interface (CLI). Install, authenticate, and manage projects directly from your command line.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -66,7 +66,7 @@ $ fleek logout
 
 ### Projects
 
-As explained [here](./projects), to interact with services, you need to have a project. This can be created and managed via the CLI too!
+As explained [here](https://docs.fleek.xyz/docs/Projects), to interact with services, you need to have a project. This can be created and managed via the CLI too!
 
 To create a project, you can do it like this:
 

@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Projects
+title: Projects | Fleek Docs 
 sidebarCollapsible: false
 sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Create, manage and personalize Projects. Dive into the core of project handling on Fleek, from your first auto-generated project to organizing your next idea.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:

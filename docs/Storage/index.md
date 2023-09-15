@@ -1,10 +1,10 @@
 ---
 draft: false
-title: Storage
+title: Storage | Fleek Docs
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Dive into Fleek's decentralized storage service. Offering support for IPFS, Arweave, and Filecoin, Fleek ensures high availability and performance..
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
@@ -39,7 +39,7 @@ To add a directory simply select  the `Upload Directory` button and select the d
 
 To access a file or directory you can click on the three dots icon in the file or directory row and select the `Copy URL` option. This will copy the URL to your clipboard and you can use it to access the file or directory. By default Fleek will be using Public gateways to surface the content. If you want you can set up a custom domain to access the content that will allow you to have a more performant a branded experience.
 
-To do this you can follow the steps in the [Gateways](/docs/gateways) section.
+To do this you can follow the steps in the [Gateways](https://docs.fleek.xyz/docs/Gateways) section.
 
 ### Deleting a file or directory
 
