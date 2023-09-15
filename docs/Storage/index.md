@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Storage | Fleek Docs
+title: Storage
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00

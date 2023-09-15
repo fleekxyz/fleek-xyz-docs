@@ -1,5 +1,5 @@
 ---
-title: DNS Records | Guides | Fleek Docs
+title: DNS Records | Guides
 sidebar_position: 2
 description: Guide on configuring DNS records for Fleek Custom Domains, root vs. subdomains and recommended DNS providers.
 tags:

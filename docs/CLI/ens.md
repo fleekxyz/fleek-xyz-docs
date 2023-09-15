@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ENS | CLI | Fleek Docs 
+title: ENS | CLI 
 sidebarCollapsible: false
 sidebar_position: 8
 date: 2023-01-10T09:00:00.000+00:00

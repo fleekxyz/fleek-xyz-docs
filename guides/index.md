@@ -1,5 +1,5 @@
 ---
-title: Guides | Fleek Docs
+title: Guides
 sidebar_position: 1
 description: Find guides to help you with the most common tasks when using Fleek.
 tags:

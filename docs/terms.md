@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Terms & Conditions | Fleek Docs
+title: Terms & Conditions
 sidebarCollapsible: false
 sidebar_position: 10
 date: 2023-01-10T09:00:00.000+00:00

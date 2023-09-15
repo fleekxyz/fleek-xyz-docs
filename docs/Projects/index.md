@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Projects | Fleek Docs 
+title: Projects 
 sidebarCollapsible: false
 sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
