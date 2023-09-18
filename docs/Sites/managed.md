@@ -59,13 +59,13 @@ In case a deployment failes you can retry it directly from the deployments page.
 
 Once the deployment is completed you will be able to configure your custom domain. To do this, go to the settings page and click on the domains tab. In this page you will be able to add your custom domain and configure it to use your site.
 
-You can follow a guide on how to configure your custom domain [here](https://docs.fleek.xyz/docs/Domains/custom-domains).
+You can follow a guide on how to configure your custom domain [here](/docs/Domains/custom-domains).
 
 #### Configure your ENS domain
 
 You can also configure your ENS domain. To do this, go to the settings page and click on the domains tab. In this page you will be able to add your ENS domain and configure it to use your site.
 
-You can follow a guide on how to configure your ENS domain [here](https://docs.fleek.xyz/docs/Domains/ens).
+You can follow a guide on how to configure your ENS domain [here](/docs/Domains/ens).
 
 ### Deleting a Site
 
