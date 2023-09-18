@@ -39,7 +39,7 @@ For this reason, crawling on CI deployment is disabled and can be enabled if mov
 
 The documentation site is the static output result of the build command (as directory `build`).
 
-A Github workflow is set up to build and publish to `gh_pages`, which when committed to `gh_pages`, the [pages-build-deployment](https://github.com/fleekxyz/new-docs/actions) triggers.
+A Github workflow is set up to build and publish to `gh_pages`, which when committed to `gh_pages`, the [pages-build-deployment](https://github.com/fleekxyz/fleek-xyz-docs/actions) triggers.
 
 Any new commit into the `main` branch will trigger the [Deploy (Github pages)](https://github.com/fleekxyz/newdocs/actions/workflows/deploy-gh-pages.yml) action. For this reason, to publish a new build all you have to do is to commit to `main` branch.
 

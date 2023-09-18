@@ -9,7 +9,7 @@ const commonDocsOptions = {
   showLastUpdateAuthor: false,
   showLastUpdateTime: true,
   editUrl:
-    'https://github.com/fleek-xyz/',
+    'https://github.com/fleekxyz/fleek-xyz-docs/',
 };
 
 const commonNavbarItems = [{
@@ -36,7 +36,7 @@ const commonNavbarItems = [{
   activeBasePath: 'changelog',
 },
 {
-  href: 'https://github.com/fleekxyz',
+  href: 'https://github.com/fleekxyz/fleek-xyz-docs/',
   label: 'Github',
   position: 'left',
   target: '_blank',

@@ -4,7 +4,7 @@ title: Changelog
 sidebarCollapsible: false
 sidebar_position: 1
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Welcome to the continually updated changelog for Fleek.xyz where we detail all recent modifications, enhancements, and updates made to the platform.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:

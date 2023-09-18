@@ -4,7 +4,7 @@ title: Privacy Policies
 sidebarCollapsible: false
 sidebar_position: 10
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Whether you are an expert or an absolute beginner, you'll find your answers here..
+description: Review Fleek LLC's Privacy Policy, detailing how we use and protect personal information.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
