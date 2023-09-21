@@ -90,10 +90,6 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        gtag: {
-          trackingID: 'GTM-PC422SF',
-          anonymizeIP: true,
-        },
       }),
     ],
   ],
@@ -223,6 +219,13 @@ const config = {
           ...commonDocsOptions,
         }),
       ],
+      [
+        '@docusaurus/plugin-google-tag-manager',
+        /** @type {import('@docusaurus/plugin-google-tag-manager').Options} */
+        ({
+          containerId: 'GTM-T8X9FJP',
+        }),
+      ]
     ],    
 };
 
