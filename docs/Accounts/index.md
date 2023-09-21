@@ -16,7 +16,7 @@ tags:
 
 ### Authentication
 
-We use Dynamic.xyz[https://dynamic.xyz] for authentication, this means that you can use any of the following methods to authenticate in Fleek:
+We use [Dynamic.xyz](https://dynamic.xyz) for authentication, this means that you can use any of the following methods to authenticate in Fleek:
 
 -  Wallet Authentication
 -  Email Authentication (using OTP)
