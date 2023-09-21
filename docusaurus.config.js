@@ -223,7 +223,7 @@ const config = {
         '@docusaurus/plugin-google-tag-manager',
         /** @type {import('@docusaurus/plugin-google-tag-manager').Options} */
         ({
-          containerId: 'GTM-PC422SF',
+          containerId: 'GTM-T8X9FJP',
         }),
       ]
     ],    
