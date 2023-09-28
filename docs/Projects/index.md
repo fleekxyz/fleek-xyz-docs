@@ -14,6 +14,8 @@ tags:
 - Fleek
 ---
 
+![](../images/Projects.png)
+
 All platform usage will be tied to a project, so it is mandatory to have a project selected. Any user can create a project, and access can be granted to any user by providing an email address.
 
 An account can be the owner of one or more projects and, at the same time, can belong to projects owned by other accounts.

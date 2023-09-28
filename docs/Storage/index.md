@@ -15,7 +15,7 @@ tags:
 - Fleek
 ---
 
-![](../images/storage.png)
+![](../images/Storage.png)
 
 ### Introduction
 

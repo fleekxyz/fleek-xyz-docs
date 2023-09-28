@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-![](../images/accounts.png)
+![](../images/Accounts.png)
 
 ### Authentication
 

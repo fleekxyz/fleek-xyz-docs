@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-![](../images/invitesbanner.png)
+![](../images/Invitesbanner.png)
 
 Invites are a way to grant access to a another user to one of your projects. The Invited users will be able to perform most of the actions that the owner of the project can do like
 
