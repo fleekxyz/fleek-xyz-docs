@@ -15,6 +15,8 @@ tags:
   - Fleek
 ---
 
+![](../docs/images/sunsetting.png)
+
 :::info
 Update (08/31/23): This doc has been updated to better reflect the state of the road to sunsetting, and to include the Alpha release.
 :::

@@ -15,6 +15,8 @@ tags:
 - Fleek
 ---
 
+![](../images/private-gateways.png)
+
 ### Introduction
 In this section we will dive deeper into the IPFS private gateways services and how to use them to serve your content to your users. We will go through the following topics:
 

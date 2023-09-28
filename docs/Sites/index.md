@@ -15,6 +15,8 @@ tags:
 - Fleek
 ---
 
+![](../images/hosting.png)
+
 ### Introduction
 
 The Sites services in Fleek will allow users to upload and easily maintain static sites, stored and served by Web3 protocols. Our goal is to provide a user-friendly platform that can help developers streamline their use of web3 infrastructure.

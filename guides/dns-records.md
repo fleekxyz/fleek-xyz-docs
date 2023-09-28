@@ -8,6 +8,8 @@ tags:
 - Fleek
 ---
 
+![](../docs/images/dnssetup.png)
+
 ### Introduction
 
 In this guide we will be going over key aspects to set up your DNS records correctly when using Fleek Custom Domains with your Fleek site.

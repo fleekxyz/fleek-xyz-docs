@@ -15,6 +15,9 @@ tags:
 - Fleek
 ---
 
+![](../images/self.png)
+
+
 In self-custodial deployments, you can configure your site with your code repository. This allows you to trigger a deploy manually or connect it to your CI pipeline.
 
 ### Setting up a self managed deployment

@@ -15,6 +15,9 @@ tags:
 - Fleek
 ---
 
+![](../images/pat.png)
+
+
 Personal Access Tokens are used to authenticate with Fleek's services. You can create as many tokens as you need, and you can delete them at any time.
 
 ## Create a PAT

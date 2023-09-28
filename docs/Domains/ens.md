@@ -15,6 +15,8 @@ tags:
 - Fleek
 ---
 
+![](../images/enssetup.png)
+
 ### Introduction
 
 [Ethereum Name Service Domains](https://ens.domains/es/) provide a decentralized alternative to DNS domains. These are Ethereum based names followed by the .eth TLD. One of its great features is its capability to map multiple records with multiple purposes.

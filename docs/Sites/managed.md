@@ -15,6 +15,8 @@ tags:
 - Fleek
 ---
 
+![](../images/managed.png)
+
 Deploying a site using Fleek pipeline is a simple process. You can connect your code repository to Fleek and we will take care of the build and deploy process. This allows you to focus on your code and not worry about the infrastructure.
 
 This is a multistep process that will require you to connect your code repository, configure your build settings, and deploy your site.

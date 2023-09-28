@@ -15,6 +15,8 @@ tags:
 - Fleek
 ---
 
+![](../images/storage.png)
+
 ### Introduction
 
 In Fleek we offer a storage service that you can use to store your files in a decentralized way. We support the following protocols:

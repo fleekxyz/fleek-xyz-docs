@@ -15,6 +15,8 @@ tags:
 - Fleek
 ---
 
+![](../images/dnssetup.png)
+
 ### Introduction
 
 To set up a custom domain, we will create a unique URL for your pull zone, which will point to the last deployed content on your site. You will then need to configure your domain to the pull zone URL using a CNAME record or an ANAME, depending on your DNS provider. This ensures that when someone visits your custom domain, they will be directed to the cached content on our CDN, resulting in faster load times.

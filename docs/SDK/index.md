@@ -14,6 +14,8 @@ tags:
 - Fleek
 ---
 
+![](../images/fleeksdk.png)
+
 ### Introduction
 
 The Fleek SDK is a set of tools that allow you to interact with Fleek’s services. It’s composed of a set of libraries that you can leverage to build your own application on top of Fleek’s services.
