@@ -34,7 +34,7 @@ To invite a new user into your project you need to go to the project settins and
 
 <div style={{textAlign: 'center'}}>
 
-![Project Members](../images/invites.png)
+![Project Members](../images/inviteset.png)
 
 </div>
 
@@ -42,6 +42,6 @@ This link is a unique link that will grant acces once to a user to the project. 
 
 <div style={{textAlign: 'center'}}>
 
-![Invite Link](../images/invite-link.png)
+![Invite Link](../images/invitelink.png)
 
 </div>
