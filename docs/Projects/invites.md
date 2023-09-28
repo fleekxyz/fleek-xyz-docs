@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-![](../images/set.png)
+![](../images/invitesbanner.png)
 
 Invites are a way to grant access to a another user to one of your projects. The Invited users will be able to perform most of the actions that the owner of the project can do like
 
@@ -34,7 +34,7 @@ To invite a new user into your project you need to go to the project settings an
 
 <div style={{textAlign: 'center'}}>
 
-![Project Members](../images/link.png)
+![Project Members](../images/set.png)
 
 </div>
 
@@ -42,6 +42,6 @@ This link is a unique link that will grant acces once to a user to the project. 
 
 <div style={{textAlign: 'center'}}>
 
-![Invite Link](../images/invitelink.png)
+![Invite Link](../images/link.png)
 
 </div>
