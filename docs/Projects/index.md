@@ -20,6 +20,8 @@ All platform usage will be tied to a project, so it is mandatory to have a proje
 
 An account can be the owner of one or more projects and, at the same time, can belong to projects owned by other accounts.
 
+![](../images/proj.png)
+
 ### First Project
 
 When you create your account, you will have your first project automatically created for you. This project will have a place holder name and will be empty. You can change the name of the project at any moment.

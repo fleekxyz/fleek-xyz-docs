@@ -8,7 +8,7 @@ tags:
 - Fleek
 ---
 
-[](../docs/images/guides.png)
+![](../docs/images/guides.png)
 
 ### Introduction
 

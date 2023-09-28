@@ -28,6 +28,8 @@ To create a PAT, go to your [Account Settings](https://app.fleek.xyz/profile/set
 Ensure that you diligently copy and store your PAT (Personal Access Token) in a safe and secure manner. It's crucial to understand that the value of this token will be revealed only once, and if lost, might not be retrievable. Taking precautionary measures now can prevent potential complications or security breaches in the future.
 :::
 
+![](../images/patoken.png)
+
 ## Delete a PAT
 
 

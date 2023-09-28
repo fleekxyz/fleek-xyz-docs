@@ -36,6 +36,8 @@ To create a private gateway you will need to have a Fleek project and a custom d
 
 To set up the gateway you have to go to the project settings and click on the `Gateways` tab. In this tab you will see a list of all the gateways you have created for this project. To create a new gateway you need to add a name for it and click on the `Add Gateway` button. Once the gateways is created a modal will appear to add your first custom domain on top of it. 
 
+![](../images/gate.png)
+
 You need to add the domain and in similar fashion to how its added to a site in [Custom domains](/docs/Domains/custom-domains) section you will need to configure the DNS provider to point to the gateway. Once you have configured the DNS provider you can click on the `Ok, I have added it` button and and we will run the verification to make sure its setted up correctly.
 
 Once the verification is completed you will see the status of the gateway change to `Active` and you will be able to use it to serve your content. You can access the content on your gateway via the domain like this `my-gateway-url/ipfs/<cid>` and `my-gateway-url/ipns/<cid>`

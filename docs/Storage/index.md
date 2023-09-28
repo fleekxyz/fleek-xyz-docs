@@ -29,6 +29,8 @@ To guarantee the best performance and availability we use a combination of these
 
 Storage is a service unique for every project. This means that you can have different storage configurations for each project you have in Fleek.
 
+![](../images/store.png)
+
 ### Add a File or Directory
 
 To add a file to your storage you first need to navigate to the `Files` section in your project dashboard and click on the `Upload File` button. This will open a modal where you can select one or multiple files to upload.

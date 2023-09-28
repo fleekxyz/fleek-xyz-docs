@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-![](../images/Invitesbanner.png)
+![](../images/set.png)
 
 Invites are a way to grant access to a another user to one of your projects. The Invited users will be able to perform most of the actions that the owner of the project can do like
 
@@ -30,11 +30,11 @@ But will be restricted from doing actions like
 
 ### Inviting a new user
 
-To invite a new user into your project you need to go to the project settins and select the teams tab. There you will find a list of members in the project and a button to generate a link to invite a new user.
+To invite a new user into your project you need to go to the project settings and select the teams tab. There you will find a list of members in the project and a button to generate a link to invite a new user.
 
 <div style={{textAlign: 'center'}}>
 
-![Project Members](../images/inviteset.png)
+![Project Members](../images/link.png)
 
 </div>
 
