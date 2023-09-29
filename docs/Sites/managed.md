@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Managed Deployments 
+title: Managed Deployments
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
@@ -8,12 +8,14 @@ description: Deploy a site using Fleek’s CI/CD pipeline. Connect your reposito
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
-- Edge Platform
-- CDN
-- Guide
-- Learn
-- Fleek
+  - Edge Platform
+  - CDN
+  - Guide
+  - Learn
+  - Fleek
 ---
+
+![](../images/managed-ui.png)
 
 Deploying a site using Fleek pipeline is a simple process. You can connect your code repository to Fleek and we will take care of the build and deploy process. This allows you to focus on your code and not worry about the infrastructure.
 
