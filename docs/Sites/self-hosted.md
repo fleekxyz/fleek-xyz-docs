@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Self Managed Deployments 
+title: Self Managed Deployments
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
@@ -8,20 +8,20 @@ description: Self-custodial Deployments, manage your own site deployment using t
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
-- Edge Platform
-- CDN
-- Guide
-- Learn
-- Fleek
+  - Edge Platform
+  - CDN
+  - Guide
+  - Learn
+  - Fleek
 ---
+
+![](../images/self-managed-ui.png)
 
 In self-custodial deployments, you can configure your site with your code repository. This allows you to trigger a deploy manually or connect it to your CI pipeline.
 
 ### Setting up a self managed deployment
 
 To set up a self managed deployment you need to create a site and choose the option to manage the deployment via the Fleek CLI at the bottom of the git provider screen.
-
-[![Self Manage deployment](../images/self-managed.png)](../images/self-managed.png)
 
 To set up the site you will need to add some information about your site:
 

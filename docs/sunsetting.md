@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Road to Sunsetting 
+title: Migrating from Fleek.co
 sidebarCollapsible: false
 sidebar_position: 1
 date: 2023-01-10T09:00:00.000+00:00
@@ -20,7 +20,8 @@ Update (08/31/23): This doc has been updated to better reflect the state of the 
 :::
 
 ## Road to Sunsetting
-As we continue developing the new Fleek Platform we wanted to share more information about what the process of shutting down our legacy Fleek.co platform will look like. 
+
+As we continue developing the new Fleek Platform we wanted to share more information about what the process of shutting down our legacy Fleek.co platform will look like.
 
 ### Phases
 

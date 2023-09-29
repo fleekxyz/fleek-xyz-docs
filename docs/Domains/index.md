@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Domains 
+title: Domains
 sidebarCollapsible: false
 sidebar_position: 5
 date: 2023-01-10T09:00:00.000+00:00
@@ -8,12 +8,14 @@ description: Set up custom DNS and ENS domains on your Fleek sites and provide b
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
-- Edge Platform
-- CDN
-- Guide
-- Learn
-- Fleek
+  - Edge Platform
+  - CDN
+  - Guide
+  - Learn
+  - Fleek
 ---
+
+![](../images/domains-ui.png)
 
 ### Introduction
 

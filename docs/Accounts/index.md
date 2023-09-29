@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Accounts 
+title: Accounts
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
@@ -8,19 +8,21 @@ description: Securely authenticate with Fleek using wallet, email, or social log
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
-- Accounts
-- Guide
-- Learn
-- Fleek
+  - Accounts
+  - Guide
+  - Learn
+  - Fleek
 ---
+
+![](../images/accounts-ui.png)
 
 ### Authentication
 
 We use [Dynamic.xyz](https://dynamic.xyz) for authentication, this means that you can use any of the following methods to authenticate in Fleek:
 
--  Wallet Authentication
--  Email Authentication (using OTP)
--  Social Logins (Google, Github, Twitter)
+- Wallet Authentication
+- Email Authentication (using OTP)
+- Social Logins (Google, Github, Twitter)
 
 ### Username
 

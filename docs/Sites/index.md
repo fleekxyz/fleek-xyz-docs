@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Sites 
+title: Sites
 sidebarCollapsible: false
 sidebar_position: 4
 date: 2023-01-10T09:00:00.000+00:00
@@ -8,12 +8,14 @@ description: Host and manage static sites on Fleek with self-custodial or manage
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
-- Edge Platform
-- CDN
-- Guide
-- Learn
-- Fleek
+  - Edge Platform
+  - CDN
+  - Guide
+  - Learn
+  - Fleek
 ---
+
+![](../images/site-ui.png)
 
 ### Introduction
 
@@ -30,4 +32,5 @@ In managed deployments you will be able to connect your code repository to Fleek
 In self-custodial deployments, you can configure your site with your code repository. This allows you to trigger a deploy manually or connect it to your CI pipeline.
 
 #### CDN
+
 All sites hosted and deployed on Fleek are accelerated and optimized by the Fleek Edge - the infrastructure backbone of Fleek. Geo-aware, intelligent, performant, and decentralized. Soon to be powered by Fleek Network. It provides high-availability caching, with automatic-cache refreshes on-deploy.

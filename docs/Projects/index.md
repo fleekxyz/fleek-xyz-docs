@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Projects 
+title: Projects
 sidebarCollapsible: false
 sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
@@ -8,11 +8,13 @@ description: Create, manage and personalize Projects. Dive into the core of proj
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
-- Accounts
-- Guide
-- Learn
-- Fleek
+  - Accounts
+  - Guide
+  - Learn
+  - Fleek
 ---
+
+![](../images/project-ui.png)
 
 All platform usage will be tied to a project, so it is mandatory to have a project selected. Any user can create a project, and access can be granted to any user by providing an email address.
 
@@ -31,4 +33,3 @@ To create a new project, click on the projects dropdown and select the create pr
 ### Changing project name
 
 To change the project name you can click on the settings icon in the project dashboard. You will be prompted to enter a new name for the project. Once you have entered the name, click on the save button and the project name will be updated.
-
