@@ -105,6 +105,16 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+      algolia: {
+        appId: 'HMX5D9GTXZ',
+        apiKey: 'dcc6efba430c3fda4ab301c7dcbfb162',
+        indexName: 'fleekdocs',
+        // Optional: see doc section below
+        contextualSearch: true,
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+        schedule: 'every 1 day at 6:00 pm',
+      },
 
       navbar: {
         logo: {
@@ -162,19 +172,7 @@ const config = {
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      // algolia: {
-      //   // The application ID provided by Algolia
-      //   appId: 'ZLPPXSKTFE',
-      //   // Public API key
-      //   apiKey: '33ed5b78ac12317e4243d3f44874cbc8',
-      //   indexName: 'fleek',
-      //   // Optional: see doc section below
-      //   contextualSearch: true,
-      //   // Optional: path for search page that enabled by default (`false` to disable it)
-      //   searchPagePath: 'search',
-      //   schedule: 'every 1 day at 6:00 pm',
-      // },
+      }
     }),
     plugins: [
       [
