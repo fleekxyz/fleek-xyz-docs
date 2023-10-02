@@ -48,11 +48,11 @@ export default function NavbarContent() {
             <NavbarItems items={leftItems} />
           </div>
           <div>
-          {/* {!searchBarItem && (
+          {!searchBarItem && (
             <NavbarSearch>
               <SearchBar />
             </NavbarSearch>
-          )} */}
+          )}
           </div>
         </>
       }
