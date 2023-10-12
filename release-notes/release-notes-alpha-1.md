@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 09-11-2023
+title: Release notes Alpha 1
 sidebarCollapsible: false
 sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-In changelog we are introducing the alpha release of the Fleek.xyz platform UI. This is a big milestone for us as it means that we are getting close to sunset the old platform and move all the users to the new one.
+In release notes we are introducing the alpha release of the Fleek.xyz platform UI. This is a big milestone for us as it means that we are getting close to sunset the old platform and move all the users to the new one.
 
 ### New Features
 

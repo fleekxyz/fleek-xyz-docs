@@ -30,10 +30,10 @@ const commonNavbarItems = [{
   activeBasePath: 'templates',
 },
 {
-  to: 'changelog',
-  label: 'Changelog',
+  to: 'release-notes',
+  label: 'Release Notes',
   position: 'left',
-  activeBasePath: 'changelog',
+  activeBasePath: 'release-notes',
 },
 {
   href: 'https://github.com/fleekxyz/fleek-xyz-docs/',
@@ -207,9 +207,9 @@ const config = {
         'content-docs',
         /** @type {import('@docusaurus/plugin-content-docs').Options} */
         ({
-          id: 'changelog',
-          path: 'changelog',
-          routeBasePath: '/changelog',
+          id: 'release-notes',
+          path: 'release-notes',
+          routeBasePath: '/release-notes',
           // `undefined` to auto-generate
           sidebarPath: undefined,
           sidebarCollapsed: false,

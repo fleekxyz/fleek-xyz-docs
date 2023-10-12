@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 09-21-2023
+title: Release notes Alpha 2
 sidebarCollapsible: false
 sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-In changelog we are introducing the first improvement to our closed alpha release of the Fleek.xyz. We are applying the first batch of feedbacks provided by our alpha testers and we have many more to come in the following days
+In release notes we are introducing the first improvement to our closed alpha release of the Fleek.xyz. We are applying the first batch of feedbacks provided by our alpha testers and we have many more to come in the following days
 
 ### New Features
 
