@@ -69,6 +69,15 @@ You can also configure your ENS domain. To do this, go to the settings page and 
 
 You can follow a guide on how to configure your ENS domain [here](/docs/Domains/ens).
 
+### Purging the cache
+
+If your website is not reflecting the latest changes, you might have a cache-refresh issue. A previous cache layer might be being held by the CDN, and therefore you’re seeing the website from the cache layer, not the most updated version.
+
+Fortunately, purging the cache manually fixes this! and you can do it right from the Fleek app if needed.
+
+Under the hosting section in Fleek, find the affected site, and visit the Settings. In the general tab you will find the section for purging the cache. It only takes clicking the button and the process will be triggered.
+
+
 ### Deleting a Site
 
 To delete a site, go to the site overview and click on the settings icon. In the general settings page, click on the **Delete Site** button. This will remove the site from your account and will no longer serving the content of your site.
