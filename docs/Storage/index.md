@@ -31,6 +31,12 @@ Storage is a service unique for every project. This means that you can have diff
 
 ### Add a File or Directory
 
+:::info
+
+We are aware that there is a bug in the UI for some users using Firefox and Linux that prevents the upload dialog box from appearing. We are investigating this issue in the meantime in case you are experiencing this issue please try with another browser. More info [here](https://support.mozilla.org/gl/questions/1375307).
+
+:::
+
 To add a file to your storage you first need to navigate to the `Files` section in your project dashboard and click on the `Upload File` button. This will open a modal where you can select one or multiple files to upload.
 
 This will be uploaded to IPFS and in the background it will be uploading to Filecoin and/or Arweave depending on your configuration.
