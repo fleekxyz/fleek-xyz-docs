@@ -69,7 +69,7 @@ You can also configure your ENS domain. To do this, go to the settings page and 
 
 You can follow a guide on how to configure your ENS domain [here](/docs/Domains/ens).
 
-### Purging the cache
+### Purging Cache
 
 If your website is not reflecting the latest changes, you might have a cache-refresh issue. A previous cache layer might be being held by the CDN, and therefore you’re seeing the website from the cache layer, not the most updated version.
 
