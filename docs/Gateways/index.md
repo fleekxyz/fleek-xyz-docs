@@ -42,3 +42,20 @@ You need to add the domain and in similar fashion to how its added to a site in 
 Once the verification is completed you will see the status of the gateway change to `Active` and you will be able to use it to serve your content. You can access the content on your gateway via the domain like this `my-gateway-url/ipfs/<cid>` and `my-gateway-url/ipns/<cid>`
 
 You can set up more than one domain per gateway. To do this you can click on the three dots icon in the gateway row and select the `Add Domain` option. This will open a modal where you can add a new domain to the gateway.
+
+### Priamry Domains
+
+![](../images/primary-domain-gw.png)
+
+Whe you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a site and it will be used inside of the platform for every action that is related to files as source of truth. For example, when you store a file, the domain that will be used in the `view file` button will be the `Primary` domain.
+
+#### Changing a primary domain
+
+At any point, as long as you have another `Active` domain seted up for the site you can change the `Primary` domain. To do this, you need to click on the three dots icon in the custom domains table and select the `Make Primary` option. This will change the `Primary` domain to the one you selected. It is important to remind you that you cannot set a domain as `Primary` if it is not `Active`, meaning that we have verified that the domain is correctly configured in your DNS provider.
+
+### Deleting a custom domain
+
+![](../images/primary-domain-delete-gw.png)
+
+To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your site and will no longer serving the content of your site. In the case that you are deleting a `primary` domain, as part of the delete process you and only if you have another `active` domains, you will have to select a new `primary` domain.
+
