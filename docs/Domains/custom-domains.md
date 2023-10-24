@@ -33,6 +33,12 @@ If your DNS provider does not support ANAME record and you want to use your root
 
 Each time you make a new deployment on your site, we will automatically update the pull zone with the latest content. This means that your visitors will always see the most up-to-date version of your website, without any additional effort on your part.
 
+:::info
+
+Domains on our CDN are unique and since we are sharing the same cdn for both platform (Fleek.co and Fleek.xyz) please avoid using a domain already registered in Fleek.co for the new platform as it will generate a conflict and will not be able to be registered.
+
+:::
+
 ### Adding a custom domain
 
 To add a custom domain to your site, first you need to have a site created. If you don't have a site yet, please follow the steps in the [Sites](/docs/Sites) section.
