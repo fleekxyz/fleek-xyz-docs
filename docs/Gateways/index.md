@@ -59,3 +59,12 @@ At any point, as long as you have another `Active` domain seted up for the site 
 
 To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your site and will no longer serving the content of your site. In the case that you are deleting a `primary` domain, as part of the delete process you and only if you have another `active` domains, you will have to select a new `primary` domain.
 
+### Deleting a private gateway
+
+To delete a private gateway, first you need to remove all the domains associated to it and then click on the manage button in the gateway row and select the option to delete the gateway. This will remove the gateway and all the content associated to it.
+
+:::info
+
+When you delete a gateway and the domains associates is an async process so the content might be reflected by your domain for a few minutes. We always recomend that you remove the DNS configuration for the domain to avoid any issues.
+
+:::
