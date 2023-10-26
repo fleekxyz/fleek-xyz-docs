@@ -51,8 +51,24 @@ When setting up a sub domain in your DNS provider make sure you add only the sub
 
 After you configure your DNS provider, you have to trigger the validation process. To do this, click on the **Ok, I have add it** button in the custom domains table. This will trigger the validation process and you will see the status of the domain change to `validating`. Once the validation process is completed, you will see the status of the domain change to `Active`.
 
+### Priamry Domains
+
+![](../images/primary-domain.png)
+
+Whe you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a site and it will be used inside of the platform for every action that is related to a site as source of truth. For example, when you deploy a site, the domain that will be used in the `view site` button will be the `Primary` domain.
+
+#### Changing a primary domain
+
+At any point, as long as you have another `Active` domain seted up for the site you can change the `Primary` domain. To do this, you need to click on the three dots icon in the custom domains table and select the `Make Primary` option. This will change the `Primary` domain to the one you selected. It is important to remind you that you cannot set a domain as `Primary` if it is not `Active`, meaning that we have verified that the domain is correctly configured in your DNS provider.
+
 ### Deleting a custom domain
 
-To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your site and will no longer serving the content of your site.
+![](../images/primary-domain-delete.png)
 
+To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your site and will no longer serving the content of your site. In the case that you are deleting a `primary` domain, as part of the delete process you and only if you have another `active` domains, you will have to select a new `primary` domain.
 
+:::info
+
+If you remove all the custom domains from a site, the content of the storage will still be available through the `<site-slug>.on-fleek.app` domain that you can find in your site overview.
+
+:::
