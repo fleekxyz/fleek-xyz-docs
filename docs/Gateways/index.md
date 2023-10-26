@@ -47,17 +47,23 @@ You can set up more than one domain per gateway. To do this you can click on the
 
 ![](../images/primary-domain-gw.png)
 
-Whe you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a site and it will be used inside of the platform for every action that is related to files as source of truth. For example, when you store a file, the domain that will be used in the `view file` button will be the `Primary` domain.
+Whe you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a storage and it will be used inside of the platform for every action that is related to files as source of truth. For example, when you store a file, the domain that will be used in the `view file` button will be the `Primary` domain.
 
 #### Changing a primary domain
 
-At any point, as long as you have another `Active` domain seted up for the site you can change the `Primary` domain. To do this, you need to click on the three dots icon in the custom domains table and select the `Make Primary` option. This will change the `Primary` domain to the one you selected. It is important to remind you that you cannot set a domain as `Primary` if it is not `Active`, meaning that we have verified that the domain is correctly configured in your DNS provider.
+At any point, as long as you have another `Active` domain seted up for the Private Gateway you can change the `Primary` domain. To do this, you need to click on the three dots icon in the custom domains table and select the `Make Primary` option. This will change the `Primary` domain to the one you selected. It is important to remind you that you cannot set a domain as `Primary` if it is not `Active`, meaning that we have verified that the domain is correctly configured in your DNS provider.
 
 ### Deleting a custom domain
 
 ![](../images/primary-domain-delete-gw.png)
 
-To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your site and will no longer serving the content of your site. In the case that you are deleting a `primary` domain, as part of the delete process you and only if you have another `active` domains, you will have to select a new `primary` domain.
+To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your Private Gateway and will no longer serving the content of your storage. In the case that you are deleting a `primary` domain, as part of the delete process you and only if you have another `active` domains, you will have to select a new `primary` domain.
+
+:::info
+
+If you remove all the custom domains from all the private gateways in your project, the content of the storage will still be available through the public IPFS gateways.
+
+:::
 
 ### Deleting a private gateway
 
