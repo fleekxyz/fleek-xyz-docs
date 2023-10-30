@@ -43,11 +43,11 @@ Once the verification is completed you will see the status of the gateway change
 
 You can set up more than one domain per gateway. To do this you can click on the three dots icon in the gateway row and select the `Add Domain` option. This will open a modal where you can add a new domain to the gateway.
 
-### Priamry Domains
+### Primary Domains
 
 ![](../images/primary-domain-gw.png)
 
-Whe you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a storage and it will be used inside of the platform for every action that is related to files as source of truth. For example, when you store a file, the domain that will be used in the `view file` button will be the `Primary` domain.
+When you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a storage and it will be used inside of the platform for every action that is related to files as source of truth. For example, when you store a file, the domain that will be used in the `view file` button will be the `Primary` domain.
 
 #### Changing a primary domain
 
@@ -57,7 +57,7 @@ At any point, as long as you have another `Active` domain seted up for the Priva
 
 ![](../images/primary-domain-delete-gw.png)
 
-To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your Private Gateway and will no longer serving the content of your storage. In the case that you are deleting a `primary` domain, as part of the delete process you and only if you have another `active` domains, you will have to select a new `primary` domain.
+To delete a custom domain, you can on the three dots icon in the custom domains table and select the delete option. This will remove the custom domain from your Private Gateway and will no longer serving the content of your storage. In the case that you are deleting a `primary` domain, as part of the delete process if you have another `active` domains, you will have to select a new `primary` domain.
 
 :::info
 
