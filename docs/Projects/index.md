@@ -33,3 +33,22 @@ To create a new project, click on the projects dropdown and select the create pr
 ### Changing project name
 
 To change the project name you can click on the settings icon in the project dashboard. You will be prompted to enter a new name for the project. Once you have entered the name, click on the save button and the project name will be updated.
+
+### Deleting a project
+
+To delete a project you can click on the settings icon in the project dashboard. You will be prompted to confirm the deletion of all the resources that are part of the project including:
+
+- All the sites
+- All the domains linked to the sites
+- All the IPNS keys linked to the sites
+- All the Private Gateways
+- All the domains linked to the Private Gateways
+- All the files stored
+
+![](../images/delete-project.png)
+
+Once you have confirmed the deletion, the project will be deleted. This action is irreversible.
+
+:::info
+The deletion of a project is an asynchronouse process we recommend when doing this to always remove any DNS configuration pointing to the project before deleting it.
+:::
