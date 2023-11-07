@@ -2,7 +2,7 @@
 draft: false
 title: Storage
 sidebarCollapsible: false
-sidebar_position: 2
+sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
 description: Dive into Fleek's decentralized storage service. Offering support for IPFS, Arweave, and Filecoin, Fleek ensures high availability and performance..
 category: Documentation
