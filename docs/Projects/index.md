@@ -50,5 +50,5 @@ To remove a project, please navigate to the project dashboard and select the set
 Once you have confirmed the deletion, the project will be deleted. This action is irreversible.
 
 :::info
-The deletion of a project is an asynchronouse process we recommend when doing this to always remove any DNS configuration pointing to the project before deleting it.
+The deletion of a project is an asynchronous process. We recommend always removing any DNS configuration pointing to the project before deleting it.
 :::
