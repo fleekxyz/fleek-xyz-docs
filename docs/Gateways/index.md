@@ -2,7 +2,7 @@
 draft: false
 title: Gateways
 sidebarCollapsible: false
-sidebar_position: 2
+sidebar_position: 5
 date: 2023-01-10T09:00:00.000+00:00
 description: Dive into storage private gateways with Fleek. Understand their functioning, set up custom domains, and manage content delivery seamlessly.
 category: Documentation
@@ -67,7 +67,9 @@ If you remove all the custom domains from all the private gateways in your proje
 
 ### Deleting a private gateway
 
-To delete a private gateway, first you need to remove all the domains associated to it and then click on the manage button in the gateway row and select the option to delete the gateway. This will remove the gateway and all the content associated to it.
+To delete a private gateway, click on the manage button in the gateway row and select the option to delete the gateway. This will remove the gateway and all the content associated to it. You will be asked to confirm the removal of all associated resources within the gateway. Ensure you check the box to the right to acknowledge this action before proceeding.
+
+![](../images/delete-gateway.png)
 
 :::info
 
