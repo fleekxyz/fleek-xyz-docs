@@ -18,7 +18,7 @@ const Author = ({
         <div>
           <span className='name'><a href={url} target="_blank" alt={name}>{name}</a></span>
           <span className='title'>{title}</span>
-          <span className='discord'>Got questions? Find us on <a href="https://discord.gg/fleekxyz" target="_blank">Discord!</a></span>
+          <span className='discord'>Got questions? Find us on <a href="https://discord.gg/fleek" target="_blank">Discord!</a></span>
         </div>
       </div>
     </section>

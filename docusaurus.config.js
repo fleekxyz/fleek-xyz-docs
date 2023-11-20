@@ -42,7 +42,7 @@ const commonNavbarItems = [{
   target: '_blank',
 }];
 
-const commonDiscord = 'https://discord.gg/fleekxyz';
+const commonDiscord = 'https://discord.gg/fleek';
 const commonTwitter = 'https://twitter.com/fleekxyz';
 const commonHome = 'https://fleek.xyz';
 const commonCompanyUrl = 'https://fleek.xyz';

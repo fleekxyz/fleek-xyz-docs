@@ -22,6 +22,6 @@ Welcome to the documentation for the alpha of [Fleek.xyz](https://fleek.xyz). Wh
 Fleek is a Web3 infrastructure platform that surfaces protocols like Fleek Network, IPFS, Arweave, Filecoin, POKT, ENS, and more. Use them independently or combine them together to create awesome new experiences.
 
 - Need support? Visit our [Support Center and Knowledge Hub.](https://support.fleek.xyz/hc/en-us)
-- Feedback? Enter our [Discord channel](https://discord.gg/fleekxyz) to have a direct line with our developers.
+- Feedback? Enter our [Discord channel](https://discord.gg/fleek) to have a direct line with our developers.
 - Would like to find a bit more of what we do? In our [blog](https://blog.fleek.xyz) you can find more information.
 
