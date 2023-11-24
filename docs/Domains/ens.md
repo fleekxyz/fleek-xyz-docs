@@ -41,7 +41,7 @@ You can use IPNS or IPFS as the content of you ENS domain.
 
 With the edit and management view enabled, you will be able to scroll down to the records section and click ADD/EDIT RECORD. Scroll down to the CONTENT field and enter:
 
-![ENS Record](https://storage.fleek.zone/27a60cdd-37d3-480c-ae88-3ad4ca886b13-bucket/imgs/fleek-record.gif)
+![ENS Record](../images/ens.gif)
 
 For an IPNS name:
 
