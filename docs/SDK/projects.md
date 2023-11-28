@@ -2,7 +2,7 @@
 draft: false
 title: Projects | SDK 
 sidebarCollapsible: false
-sidebar_position: 8
+sidebar_position: 2
 date: 2023-01-10T09:00:00.000+00:00
 description: Create, list, and retrieve project details using the SDK, ensuring seamless integration with IPFS storage & IPNS services.
 category: Documentation
