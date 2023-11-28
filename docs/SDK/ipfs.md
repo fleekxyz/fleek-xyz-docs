@@ -2,7 +2,7 @@
 draft: false
 title: IPFS | SDK 
 sidebarCollapsible: false
-sidebar_position: 8
+sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
 description: Learn how to pin a file on IPFS using the service's primary methods. Upload files individually, in bulk, or directly from your local system.
 category: Documentation
