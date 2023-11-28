@@ -16,7 +16,7 @@ tags:
 
 ### How to Create an IPNS Record
 
-To create an IPNS record using the SDK, you need to be authenticated and have a project selected. Follow the steps in the authentication section [here](/docs/SDK/index). After that, you can use the 'ipns' module to create an IPNS record.
+To create an IPNS record using the SDK, you need to be authenticated and have a project selected.
 
 ```typescript
 const record = await sdk.ipns().createRecord();
