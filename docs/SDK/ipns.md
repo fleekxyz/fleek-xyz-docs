@@ -14,57 +14,58 @@ tags:
 - Fleek
 ---
 
-### How to create an IPNS record
+### How to Create an IPNS Record
 
-To create an IPNS record using the SDK you need to be authenticated, with a project selected, followin the steps in the authentication section [here](/docs/SDK/index). After that you can use the 'ipns' module to create an IPNS record.
+To create an IPNS record using the SDK, you need to be authenticated and have a project selected. Follow the steps in the authentication section [here](/docs/SDK/index). After that, you can use the 'ipns' module to create an IPNS record.
 
-```typescript copy
+```typescript
 const record = await sdk.ipns().createRecord();
 ```
 
 This returns an object with the following properties:
 
 ```typescript
-id: the IPNS record id on Fleek DB.
-name: the IPNS record name.
-hash: the IPFS cid associated with the record.
+id: The IPNS record ID on Fleek DB.
+name: The name of the IPNS record.
+hash: The IPFS CID associated with the record.
 ```
 
-Initially all the records are created with an empy IPFS hash, to add it you will need to publish it.
+Initially, all records are created with an empty IPFS hash. To add it, you will need to publish it.
 
 You can query the record by name:
 
-```typescript copy
+```typescript
 const record = await sdk.ipns().getRecord({ name: record.name });
 ```
 
-### How to publish an IPNS record
+### How to Publish an IPNS Record
 
-To publish an IPNS record you need to provide the IPNS record name and the IPFS hash you want to associate it with.
+To publish an IPNS record, you need to provide the IPNS record name and the IPFS hash you want to associate with it.
 
-```typescript copy
+```typescript
 const record = await sdk.ipns().publishRecord({ id: record.id, hash });
 ```
 
 :::info
-It is important to note that IPNS propagation can take from 1 up to 30 minutes.
+It is important to note that IPNS propagation can take anywhere from 1 to 30 minutes.
 :::
 
-### List all records
+### List All Records
 
-To list all the records associated with a project you can use the `listRecords` method.
+To list all the records associated with a project, use the `listRecords` method.
 
-```typescript copy
+```typescript
 const records = await sdk.ipns().listRecords();
 ```
 
-### Delete a record
+### Delete a Record
 
-To delete an IPNS record you can use the `deleteRecord` method.
+To delete an IPNS record, use the `deleteRecord` method.
 
-```typescript copy
+```typescript
 await sdk.ipns().deleteRecord({ id: record.id });
 ```
+
 :::info
-It is important to note that IPNS propagation can take from 1 up to 30 minutes.
+Remember that IPNS propagation can take from 1 to 30 minutes.
 :::
