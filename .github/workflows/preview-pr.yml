@@ -1,12 +1,13 @@
 name: Preview-Deploy (Github pages)
 
 on:
-  push:
-    branches:
-      - main
-
-  workflow_dispatch:
-
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - edited
+      - synchronize
+      
 jobs:
   deploy:
     name: Deploy
