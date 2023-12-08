@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocta=self.webpackChunkdocta||[]).push([[3336],{4793:e=>{e.exports=JSON.parse('[{"label":"Guides","permalink":"/guides/tags/guides","count":2},{"label":"Help","permalink":"/guides/tags/help","count":2},{"label":"Fleek","permalink":"/guides/tags/fleek","count":2}]')}}]);
