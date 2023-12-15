@@ -29,7 +29,7 @@ To create a gateway using the CLI you will need to run the following command:
 The next step will be to configure the custom domain for your gateway. 
 
 ```shellscript filename="Configuring the custom domain" copy
-> fleek gateways domain add
+> fleek gateways create
 ✔ Enter private gateway name (eg. first): … my-first-gateway
 ✔ Enter domain name (eg. example.com): … ipfs.my-gateway.online
 > Success! Domain "ipfs.my-gateway.online" successfully created.   
@@ -38,7 +38,7 @@ The next step will be to configure the custom domain for your gateway.
 Now that the domain is created you will need to set up the correct DNS records to make sure that your domain points to the CDN pull zone. The CLI will provide you with the DNS records you need to add to your domain.
 
 ```shellscript  filename="Setting up the DNS records" copy
-> fleek gateways domain add
+> fleek gateways creat
 ✔ Enter private gateway name (eg. first): … my-first-gateway
 ✔ Enter domain name (eg. example.com): … ipfs.my-gateway.online
 > Success! Domain "ipfs.my-gateway.online" successfully created.
@@ -52,7 +52,7 @@ If you need help configuring your DNS records, you can find more information in 
 Once you have confured your DNS records, you can verify your domain. To do this, you will need to press any key in the CLI. This will trigger a verification process that will check if the DNS records are correctly configured.
 
 ```shellscript filename="Finish" copy
-> fleek gateways domain add
+> fleek gateways create
 ✔ Enter private gateway name (eg. first): … my-first-gateway
 ✔ Enter domain name (eg. example.com): … ipfs.my-gateway.online
 > Success! Domain "ipfs.my-gateway.online" successfully created.
@@ -79,4 +79,26 @@ cljqwfv790002lc08g6nmf8e0  beefy-clever-autumn  my-first-gateway  2023-07-06T08:
 
 > You can access your content through domains bellow:
 > https://ipfs.my-gateway.online/ipfs/<cid>
+```
+
+### Adding a custom domain to an existing gateway
+
+To add a domain to an existing gateway you will need to run the following command:
+
+```shellscript filename="Adding a custom domain" copy
+> fleek domains create
+```
+
+And you need to select the private gateway option and then select the gateway you want to add the domain to and then follow the wizard like in the creation.
+
+```shellscript filename="Adding a custom domain" copy
+> fleek domains create
+✔ Choose what do you want domain create for: › Private gateway
+✔ Choose existing private gateway: › my-first-gateway
+✔ Enter domain name (eg. example.com): … my-new-domain-ipfs.my-gateway.online
+> Success! Domain "my-new-domain-ipfs.my-gateway.online" successfully created.
+> Update DNS records for "my-new-domain-ipfs.my-gateway.online":
+> CNAME @ <your-pullzone-id>.fleekcdn.xyz
+> Press any key as soon as you configure your domain provider for verification.
+> Success! Domain "my-new-domain-ipfs.my-gateway.online" was verified.
 ```
