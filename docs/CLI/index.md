@@ -28,23 +28,32 @@ A CLI is a command-line program that accepts text input to execute operating sys
 
 ### Installation
 
-This package requires a minimum of Node.js 16. To install the CLI, run:
+This package requires a minimum of Node.js 18. To install the CLI, run:
 
 ```bash copy
 npm install -g @fleekxyz/cli
 ```
+
+:::info
+
+Incase this returns an access error (EACCES), run:
+```bash copy
+sudo npm install -g @fleekxyz/cli
+```
+
+:::
 
 ### Usage
 
 The Fleek CLI command has the following structure:
 
 ```bash copy
-$ fleek <service> <command> [options and parameters]
+fleek <service> <command> [options and parameters]
 ```
 
 To view all available services and commands, you can use:
 ```bash copy
-$ fleek help
+fleek help
 ```
 
 ### Authentication
@@ -52,12 +61,12 @@ $ fleek help
 All the services in the Fleek CLI require authentication. To do this, you have to run:
 
 ```bash copy
-$ fleek login
+fleek login
 ```
 This will trigger the login process, and we use Web3Auth to manage authentication. Once the flow is completed, you will be greeted like this:
 
 ```bash copy
-$ fleek login
+fleek login
 🔗 Opening browser on https://rough-truth-3196.on.fleek.xyz/login.html?verificationSession=... 
 🧑‍💻 Please login to continue
 ✅ Successfully logged in.
@@ -66,7 +75,7 @@ $ fleek login
 If at any point you want to log out, you can do so:
 
 ```bash copy
-$ fleek logout
+fleek logout
 ✅ Successfully logged out.
 ```
 
@@ -77,14 +86,14 @@ As explained [here](/docs/Projects), to interact with services, you need to have
 To create a project, you can do it like this:
 
 ```bash copy
-$ fleek projects create
+fleek projects create
 $ ? Enter project name: › 
 ```
 
 When you enter a correct name, you will be automatically switched to it. Additionally, you can switch between different projects using the 'switch' command, which will prompt a selector:
 
 ```bash copy
-$ fleek projects switch
+fleek projects switch
 ❯   project-1
     project-2
     project-3
