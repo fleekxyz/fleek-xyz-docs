@@ -101,6 +101,12 @@ You can check the detils for the configuration of your domain at any moment, thi
 
 To do this, you can use the `domains details` method where you need to pass the domain name as a parameter. We use the domain name as an identifier for the domain to avoid using internal IDs.
 
+:::info
+
+This command might prompt you to select a listed domain.
+
+:::
+
 ```shellscript filename="Listing Domains" copy
 > fleek domains detail fleekdemos.online
 WARN! Fleek CLI is in beta, use it at your own discretion

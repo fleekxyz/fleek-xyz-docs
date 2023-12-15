@@ -67,7 +67,7 @@ To publish an IPNS record with a CID using the CLI you need to be authenticated,
 WARN! Fleek CLI is in beta phase, use it under your own responsibility
 > IPNS record published. You can visit it here:
 https://ipfs.io/ipns/k51qzi5uqu5didozh8jmvbnowwj2d545yacagcply19yvjz8rhn0i1hrbw2thy
-WARN! IPNS propagation can take 1 up to 30 minutes.
+WARN! IPNS propagation can take up to 30 minutes.
 ```
 
 ### Resolving an IPNS record
@@ -91,7 +91,7 @@ To list all the IPNS record using the CLI you need to be authenticated, with a p
 
 ```shellscript filename="Creating an IPNS record" copy
 > fleek ipns list
-> Success! /ipfs/QmRG4xcsmoZuXqKuPz3uVBgvo3GZ6k1kLZWhmvzuKtDr9s
+
 id                         name                                                            hash                                          
 -----------------------------------------------------------------------------------------------------------------------------------------   
 clcuq190y0000jt08mpjw7pdz  k51qzi5uqu5didozh8jmvbnowwj2d545yacagcply19yvjz8rhn0i1hrbw2thy  QmRG4xcsmoZuXqKuPz3uVBgvo3GZ6k1kLZWhmvzuKtDr9s
