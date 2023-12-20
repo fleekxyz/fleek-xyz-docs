@@ -22,7 +22,14 @@ We use [Dynamic.xyz](https://dynamic.xyz) for authentication, this means that yo
 
 - Wallet Authentication
 - Email Authentication (using OTP)
-- Social Logins (Google, Github, Twitter)
+
+#### Managing your login connections
+
+You can manage your login connections from the account settings page in the login connections sections. You can add a login connections at any moment by clicking on the add button and selecting the method you want to add. Currently the application supports multiple wallets but you can only have one email linked to your account as an authentication method.
+
+![](../images/login-connections.png)
+
+You can also remove (or edit in the case of an email) any of the login connections you have added to your account. To do this you will need to click on the three doted menu and select the option to unlink the connection. This will open the [Dynamic.xyz](https://dynamic.xyz) modal where you will be able to unlink the connection.
 
 ### Username
 
