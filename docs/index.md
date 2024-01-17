@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Home | Fleek Docs
+title: Home
 sidebarCollapsible: false
 sidebar_position: 0
 date: 2023-01-10T09:00:00.000+00:00
