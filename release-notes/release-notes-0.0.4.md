@@ -19,7 +19,10 @@ In this changelog, we are doing introducing some changes to the deployment overv
 ### New Features
 
 - New build breakdown in the deployment overview.
+- Wallet linking is enabled for email accounts.
+- Email linking is enabled for wallet accounts.
 - Duplciate detection in the storage before uploading.
+- Integrated with ENS contract to automatically set site content hash.
 - Integrated ENS name resolution for users that have authenticated with a wallet and have an ENS name.
 - Added async availability for domain names.
 - Added async availability for environment variables.
@@ -37,11 +40,23 @@ In this changelog, we are doing introducing some changes to the deployment overv
 - Increased the env variable value character size to 250 characters.
 - Added copy to clipboard button in the deployment overview.
 - Improved the efficacy of the site screenshot generation.
+- Duplicated uploads are now skipped and marked as duplicates.
+- Site slug now has a maximum og 63 character long.
+- Increased the succes rate of the screenshot service.
 
 ### Fixes
 
 - Fixed a typo in the docker image tooltip.
 - Fixed a problem where the site slug was not clickable after the first deployment.
+- Disabled the redeployment button while the first deployment is in progress.
+- ENS modal is now closing after clicking 'Ok, I have added it' button.
+- NextJS temaplte image is now displaying in all browsers
+- Storgae tooltip now displays the correct information.
+- Project name can be change on Arc Browsers.
+- ENS submanes can be added correctly to a site.
+- Only images can be uploaded as avatars now.
+- Domains are removed from the list inmeditally after triggering the deletion.
+- Loader is now visible in light theme.
 
 ### Backoffice & Monitoring
 
@@ -49,3 +64,4 @@ In this changelog, we are doing introducing some changes to the deployment overv
 - Added project and site id information in the backoffice search capabilities.
 - Added ENS names search in the backoffice to improve customer support experience.
 - Added project link on all tables in the backoffice to improve customer support experience.
+- Added Private Gateway information in the domains table.
