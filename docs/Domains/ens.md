@@ -74,7 +74,7 @@ To confirm, use the .limo gateway to access it as explained above.
 
 ### Adding an ENS Subname
 
-Normally, trying to add an ENS subdomain or Subname of ENS V3 can trigger an errors due to controller settings in ENS. To ensure you can easily add any ENS subdomain to any Fleek site you want, go to the ENS app at https://app.ens.domains/yourname and:
+Normally, trying to add an ENS subdomain or Subname of ENS V3 can trigger an errors due to controller settings in ENS. To ensure you can easily add any ENS subdomain to any Fleek site you want, go to the ENS app at https://app.ens.domains / yourname and:
 
 1. Visit the subnames tab, and select the subname you want to add to Fleek.
 2. Unwrap your subname.
