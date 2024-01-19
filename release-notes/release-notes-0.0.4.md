@@ -18,11 +18,11 @@ In this changelog, we are doing introducing some changes to the deployment overv
 
 ### New Features
 
+- Automatic ENS integration is now available.
 - New build breakdown in the deployment overview.
 - Wallet linking is enabled for email accounts.
 - Email linking is enabled for wallet accounts.
 - Duplciate detection in the storage before uploading.
-- Integrated with ENS contract to automatically set site content hash.
 - Integrated ENS name resolution for users that have authenticated with a wallet and have an ENS name.
 - Added async availability for domain names.
 - Added async availability for environment variables.
