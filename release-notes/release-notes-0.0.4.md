@@ -14,7 +14,7 @@ tags:
 - Fleek
 ---
 
-In this changelog, we are doing introducing some changes to the deployment overviews, increasing the upload limit of the storage, and some quality-of-life improvements that we've been collecting from the feedback all our users have been sharing.
+In this changelog, we are introducing some changes to the deployment overview page, increasing the storage upload limit, and some quality-of-life improvements that we've implemented from the feedback all our users have been sharing.
 
 ### New Features
 
@@ -41,7 +41,7 @@ In this changelog, we are doing introducing some changes to the deployment overv
 - Added copy to clipboard button in the deployment overview.
 - Improved the efficacy of the site screenshot generation.
 - Duplicated uploads are now skipped and marked as duplicates.
-- Site slug now has a maximum og 63 character long.
+- Site slug now has a maximum of 63 characters long.
 - Increased the succes rate of the screenshot service.
 
 ### Fixes
@@ -49,13 +49,13 @@ In this changelog, we are doing introducing some changes to the deployment overv
 - Fixed a typo in the docker image tooltip.
 - Fixed a problem where the site slug was not clickable after the first deployment.
 - Disabled the redeployment button while the first deployment is in progress.
-- ENS modal is now closing after clicking 'Ok, I have added it' button.
-- NextJS temaplte image is now displaying in all browsers
-- Storgae tooltip now displays the correct information.
+- ENS modal now closes after clicking 'Ok, I have added it' button.
+- NextJS template image is now displaying in all browsers
+- Storage tooltip now displays the correct information.
 - Project name can be change on Arc Browsers.
-- ENS submanes can be added correctly to a site.
+- ENS subnames can be added correctly to a site.
 - Only images can be uploaded as avatars now.
-- Domains are removed from the list inmeditally after triggering the deletion.
+- Domains are removed from the list immeditally after triggering the deletion.
 - Loader is now visible in light theme.
 
 ### Backoffice & Monitoring
