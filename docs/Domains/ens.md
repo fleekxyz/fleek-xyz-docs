@@ -50,7 +50,7 @@ We recommend using the automatic method as it is the easiest and fastest way to 
 
 :::info
 
-IMPORTANT: To set up your ENS using the automatic integration you need to have the wallet that owns the ENS linked to the Fleek application. If you don't have it linked yet, please follow the steps in the [Login Connections](/accounts) section.
+IMPORTANT: To set up your ENS using the automatic integration you need to have the wallet that owns the ENS linked to the Fleek application. If you don't have it linked yet, please follow the steps in the [Login Connections](/docs/Accounts/login-connections.md) section.
 
 :::
 
