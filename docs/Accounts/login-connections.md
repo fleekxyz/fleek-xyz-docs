@@ -50,6 +50,8 @@ If you decide to unlink your wallet, you can do so by:
 
 #### Adding an Email to a Wallet-Created Account
 
+![](../images/login-connections-5.png)
+
 If you created your account using an Ethereum wallet also have the option to add an email address. This can be done by:
 
 1. Go to the 'Log In Connections' section of the account settings.
