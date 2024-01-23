@@ -4,7 +4,7 @@ title: Release notes v0.0.4
 sidebarCollapsible: false
 sidebar_position: 6
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the Fleek.xyz beta. Whether you are an expert or an absolute beginner, you'll find your answers here.
+description: Welcome to the documentation for the beta of Fleek.xyz. This is the 0.0.4 edition of the release notes, find all the new features & updates of the Fleek Platform here.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
