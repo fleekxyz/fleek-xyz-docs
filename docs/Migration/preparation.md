@@ -4,7 +4,7 @@ title: Preparation Details
 sidebarCollapsible: false
 sidebar_position: 5
 date: 2023-01-09T09:00:00.000+00:00
-description: Information to get you ready for Fleek.co sunsetting targeted for the middle/end of Q1 2024.
+description: Get all the information needed for the sunsetting of the Fleek.co Platform.
 category: Documentation
 keywords: [introduction, documentation, getting started]
 tags:
