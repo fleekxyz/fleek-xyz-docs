@@ -67,7 +67,7 @@ This will trigger the login process, and we use Web3Auth to manage authenticatio
 
 ```bash copy
 fleek login
-🔗 Opening browser on https://rough-truth-3196.on.fleek.xyz/login.html?verificationSession=... 
+🔗 Opening browser on https://app.fleek.xyz/login.html?verificationSession=... 
 🧑‍💻 Please login to continue
 ✅ Successfully logged in.
 ```
