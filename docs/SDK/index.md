@@ -91,6 +91,10 @@ const fleekSdk = new FleekSdk({ accessTokenService: patService })
 
 #### Application Access Token
 
+Application credentials are the keys to your project. They are used to authenticate your application with Fleek's services. You can create multiple application credentials for a single project, and each application credential can have different permissions.
+
+You can create an application token following the steps [here](/docs/Projects/application-credentials).
+
 #### *Parameters*
 |*parameters*|*description*|
 |:----------:|:-----------:|
