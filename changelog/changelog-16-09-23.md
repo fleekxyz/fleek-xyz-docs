@@ -4,7 +4,7 @@ title: Changelog - September 16th, 2023
 sidebarCollapsible: false
 sidebar_position: 3
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. Find all the information of our close alpha release here. 
+description: Welcome to the documentation for the beta of Fleek.xyz. This is the changelog for September 16th, 2023, find all the new features & updates of the Fleek Platform here.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
