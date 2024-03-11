@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Release notes v0.0.4
+title: Changelog - January 22nd, 2024
 sidebarCollapsible: false
 sidebar_position: 6
 date: 2023-01-10T09:00:00.000+00:00

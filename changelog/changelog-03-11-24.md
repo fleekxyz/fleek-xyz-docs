@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Release notes Feb 2024
+title: Changelog - March 11th, 2024
 sidebarCollapsible: false
 sidebar_position: 7
 date: 2023-01-10T09:00:00.000+00:00
