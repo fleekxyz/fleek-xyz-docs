@@ -4,7 +4,7 @@ title: Changelog - October 12th, 2023
 sidebarCollapsible: false
 sidebar_position: 4
 date: 2023-01-10T09:00:00.000+00:00
-description: Welcome to the documentation for the beta of Fleek.xyz. This is the 0.0.1 edition of the release notes, you'll find all the new updates of the Fleek Platform here.
+description: Welcome to the documentation for the beta of Fleek.xyz. This is the changelog for October 12th, 2023, find all the new features & updates of the Fleek Platform here.
 category: Documentation
 keywords: [services, documentation, getting started]
 tags:
