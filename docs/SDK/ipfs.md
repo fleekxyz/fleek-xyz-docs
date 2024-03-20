@@ -14,6 +14,10 @@ tags:
 - Fleek
 ---
 
+:::info
+In case you are using the Fleek SDK with a PAT as the authentication service you need to make sure that the projectId is set in the PersonalAccessTokenService.
+:::
+
 ### How to pin a file
 
 Here is a list of the available methods for the `IPFS` service:

@@ -14,6 +14,10 @@ tags:
 - Fleek
 ---
 
+:::info
+In case you are using the Fleek SDK with a PAT as the authentication service you need to make sure that the projectId is set in the PersonalAccessTokenService.
+:::
+
 ### How to Create an IPNS Record
 
 To create an IPNS record using the SDK, you need to be authenticated and have a project selected.
