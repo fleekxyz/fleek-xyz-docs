@@ -69,7 +69,7 @@ The personal access token (PAT) is ment to be used in Backend Node.js environmen
   |*parameters*|*description*|
   |:----------:|:-----------:|
   |`personalAccessToken`|Private PAT, generated from the `CLI`.|
-  |`projectId` (Optional)|Project Id is required for specific services.|
+  |`projectId` (Optional)|Project Id is required for IPFS and IPNS service |
 
   This method of authentication relies on a `personalAccessToken` which can be obtained from the Fleek CLI:
 
