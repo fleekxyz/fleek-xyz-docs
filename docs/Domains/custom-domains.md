@@ -61,7 +61,7 @@ After you configure your DNS provider, you have to trigger the validation proces
 
 ![](../images/primary-domain.png)
 
-When you have correctly seted up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a site and it will be used inside of the platform for every action that is related to a site as source of truth. For example, when you deploy a site, the domain that will be used in the `view site` button will be the `Primary` domain.
+When you have correctly set up your first domain it will be marked with the tag of `Primary`. The `Primary` domain is the main domain for a site and it will be used inside of the platform for every action that is related to a site as source of truth. For example, when you deploy a site, the domain that will be used in the `view site` button will be the `Primary` domain.
 
 #### Changing a primary domain
 
