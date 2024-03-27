@@ -69,7 +69,11 @@ You can also configure your ENS domain. To do this, go to the settings page and 
 
 You can follow a guide on how to configure your ENS domain [here](/docs/Domains/ens).
 
-### Purging Cache
+## Concurrent Deployments
+
+Currently Fleek support one deployment at a time. This means that if you trigger a new deployment while another one is running, the new deployment will be queued and will start once the current deployment is completed. Possibilities of concurrent deployments will come soon with the new billing plans.
+
+## Purging Cache
 
 ![](../images/purge-cache.png)
 
@@ -78,7 +82,6 @@ If your website is not reflecting the latest changes, you might have a cache-ref
 Fortunately, purging the cache manually fixes this! and you can do it right from the Fleek app if needed.
 
 Under the hosting section in Fleek, find the affected site, and visit the Settings. In the general tab you will find the section for purging the cache. It only takes clicking the button and the process will be triggered.
-
 
 ### Deleting a Site
 
